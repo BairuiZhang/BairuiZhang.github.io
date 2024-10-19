@@ -52,7 +52,11 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors SCI JCR Q2</div><img src='images/sensors.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Artificial Intelligence in Pancreatic Image Analysis: A Review](https://doi.org/10.3390/s24144749)
+[Artificial Intelligence in Pancreatic Image Analysis: A Review](https://doi.org/10.3390/s24144749
+        
+        
+        
+        )
 
 Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 
@@ -63,7 +67,11 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISAIMS</div><img src='images/ISAIMS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Factors that increase the mortality of sepsis and personalized medication for patients with sepsis](https://dl.acm.org/doi/pdf/10.1145/3644116.3644330)
+[Factors that increase the mortality of sepsis and personalized medication for patients with sepsis](https://dl.acm.org/doi/pdf/10.1145/3644116.3644330
+        
+        
+        
+        )
 
 **Bairui Zhang**, Qianlong Cai, Junyang Ding, Kaitao Yuan
 
@@ -86,7 +94,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 - *2021.09 - 2025.06*, Northeastern University, Bachelor of Engineering. Computer Science & Technology. 
 - *2024.06 - 2025.06*, The Chinese University of Hong Kong, Shenzhen, School of Data Science, Visiting Student.
 
-# 💬 Tutorial and Talk
+# 💬 Tutorial and Experience
 - *2023.09-2023.12*, International Subject Assistant, Northeastern University & University of Technology Sydney.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Summer Camp</div><img src='images/MIT.png' alt="sym" width="100%"></div></div>
