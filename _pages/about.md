@@ -17,14 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, welcome to Barry's homepage. I am a Computer Science student at **Northeastern University, China (985, 211)** and a Research Assistant at the Chinese University of Hong Kong, Shenzhen, affiliated with the [CUHKSZ NLP Group](https://freedomintelligence.github.io/) under the supervision of [Prof. Benyou Wang](https://wabyking.github.io/old.html). My research interests are Multimodal Large Language Models (MLLMs), AI for Healthcare, Fintech, Artificial General Intelligence (AGI) and Human-Computer Interaction, etc.
 
+Academically, I rank in the **top 3 (2.6%)** of my major with an average score of **92.2**, received scholarships and the "Merit Student" title in each academic year. My research experience includes participating in a Research Camp led by MIT Professor **[Manolis Kellis](https://web.mit.edu/manoli/)**, where I earned an **A** (98) and ranked **1st** in my team. I have published a paper on data mining using the MIMIC IV Dataset (EI Search), worked on multimodal emotion recognition (NAACL, Under Review), authored a review paper (SCI JCR Q2), and hold two patents (ZL202330570881.0 & ZL202322388965.X).
+
+In competitions, I have won several international awards in mathematical modeling, including **Meritorious Winner (Top 7% in the world)** in the Interdisciplinary Contest in Modeling (ICM) and **First Prize (Top 5% in the world)** in the Asia and Pacific Mathematical Contest in Modeling (APMCM).
+
+<!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+-->
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02*: &nbsp;🎉🎉 Meritorious Winner (Top 7% in the world), The Mathematical/Interdisciplinary Contest in Modeling [(MCM/ICM)](https://www.comap.com/)
+- *2022.02*: &nbsp;🎉🎉 First Prize (Top 5% team in the world), The Asia and Pacific Mathematical Contest in Modeling [(APMCM)](http://www.apmcm.org/?language=en). 
 
 # 📝 Publications 
 
