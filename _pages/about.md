@@ -52,7 +52,9 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors SCI JCR Q2</div><img src='images/sensors.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Artificial Intelligence in Pancreatic Image Analysis: A Review](https://doi.org/10.3390/s24144749)
+[Artificial Intelligence in Pancreatic Image Analysis: A Review](https://doi.org/10.3390/s24144749
+        
+        )
 
 Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 
@@ -76,8 +78,8 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 -->
 
 # 🎖 Honors and Awards
-- *2024.02* Meritorious Winner (Top 7% in the world), Mathmatical Contests in Modeling ([MCM/ICM](https://www.comap.com/)).
-- *2023.11* First Prize (Top 5% in the world), Asia and Pacific Mathematical Contest in Modeling ([APMCM](http://www.apmcm.org/index?language=cn)).
+- *2024.02* Meritorious Winner (Top 7% in the world), Mathmatical Contests in Modeling ([MCM/ICM](https://www.comap.com/)). See [Paper](./assets/SubmittedICM.pdf) Here.
+- *2023.11* First Prize (Top 5% in the world), Asia and Pacific Mathematical Contest in Modeling ([APMCM](http://www.apmcm.org/index?language=cn)). See [Paper](./assets/apmcm.pdf) Here.
 - *2024.10* First Prize Scholarship (Top 1.7%), Northeastern University.
 - *2021-2023* Merit Student (Each Academic Year), Northeastern University.
 - *2021-2023* University Scholarship (Four Consecutive Semester), Northeastern University. 
