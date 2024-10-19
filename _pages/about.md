@@ -17,9 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, welcome to Barry's homepage. I am a senior in Computer Science at **Northeastern University** and a Research Assistant at **The Chinese University of Hong Kong, Shenzhen**, working with the [CUHKSZ NLP Group](https://freedomintelligence.github.io/) under [Prof. Benyou Wang](https://wabyking.github.io/old.html). My research focuses on Multimodal Large Language Models (MLLMs), AI for Healthcare, Fintech, Artificial General Intelligence (AGI), and Human-Computer Interaction.
+Hi! Welcome to Barry's homepage. I am a Computer Science senior student at **Northeastern University**, ranking in the **top 3 (2.6%)** of my major with an average score of **92.2**. I have consistently received scholarships and the "Merit Student" title in each academic year. I am also a Research Assistant at **The Chinese University of Hong Kong, Shenzhen**, affiliated with the [CUHKSZ NLP Group](https://freedomintelligence.github.io/) under the supervision of [Prof. Benyou Wang](https://wabyking.github.io/old.html). 
 
-Academically, I rank in the **top 3 (2.6%)** of my major with an average score of **92.2**. I have received scholarships and the "Merit Student" title each year. My research experience includes participating in a Research Camp led by MIT Professor **[Manolis Kellis](https://web.mit.edu/manoli/)**, where I achieved an **A** (98) and ranked **1st** in my team.
+My research experience includes participating in a Research Camp led by MIT Professor **[Manolis Kellis](https://web.mit.edu/manoli/)**, where I earned an **A** (98) and ranked **1st** in my team. I have published a paper on data mining using the MIMIC IV Dataset (EI Search), worked on multimodal emotion recognition (NAACL, Under Review), authored a review paper (SCI JCR Q2), and hold two patents (ZL202330570881.0 & ZL202322388965.X).
+
+In competitions, I have achieved several international awards in mathematical modeling, including **Meritorious Winner (Top 7% in the world)** in the Interdisciplinary Contest in Modeling (ICM) and **First Prize (Top 5% in the world)** in the Asia and Pacific Mathematical Contest in Modeling (APMCM).
+
+My research interests include Multimodal Large Language Models (MLLMs), AI for Healthcare, Fintech, Artificial General Intelligence (AGI), and Human-Computer Interaction and actively seeking MPhil/Ph.D. positions and am open to self-funded MPhil opportunities in 2025 Fall.
+
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
