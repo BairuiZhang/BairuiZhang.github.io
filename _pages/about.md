@@ -26,8 +26,8 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 Meritorious Winner (Top 7% in the world), The Mathematical/Interdisciplinary Contest in Modeling [(MCM/ICM)](https://www.comap.com/)
-- *2022.02*: &nbsp;🎉🎉 First Prize (Top 5% team in the world), The Asia and Pacific Mathematical Contest in Modeling [(APMCM)](http://www.apmcm.org/?language=en). 
+- *2024.02*: &nbsp;🎉🎉 Meritorious Winner (Top 7%), The Mathematical Contest in Modeling ([MCM/ICM](https://www.comap.com/)).
+- *2022.02*: &nbsp;🎉🎉 First Prize (Top 5%), The Asia and Pacific Mathematical Contest in Modeling ([APMCM](http://www.apmcm.org/?language=en)). 
 
 # 📝 Publications 
 
