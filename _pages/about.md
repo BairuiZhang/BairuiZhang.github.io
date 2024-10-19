@@ -48,6 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors SCI JCR Q2</div><img src='images/sensors.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,6 +57,17 @@ My research interest includes neural machine translation and computer vision. I 
 Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 
 - This work explores the application of AI in pancreatic cancer diagnosis, focusing on segmentation, classification, object detection, and prognosis prediction using CT, MRI, EUS, PET, and pathological images. It aims to improve diagnostic and treatment accuracy by integrating various imaging techniques, and discusses current trends and future developments in AI-driven pancreatic cancer diagnosis.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISAIMS</div><img src='images/ISAIMS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Factors that increase the mortality of sepsis and personalized medication for patients with sepsis](https://dl.acm.org/doi/pdf/10.1145/3644116.3644330)
+
+**Bairui Zhang**, Qianlong Cai, Junyang Ding, Kaitao Yuan
+
+- This work develops a machine learning model to predict mortality and recommend medications for sepsis patients. Extreme Gradient Boosting achieved the best accuracy for both mortality (0.802) and drug prediction (0.867). Key factors affecting mortality include age and respiratory rate. Heparin, Acetaminophen, and Metoprolol Tartrate were effective, while Hydromorphone was linked to higher mortality.
 </div>
 </div>
 
