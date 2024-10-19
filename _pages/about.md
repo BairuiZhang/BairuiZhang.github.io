@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Welcome to Barry's homepage. I am a Computer Science senior student at **Northeastern University**, ranking in the **top 3 (2.6%)** of my major with an average score of **92.2**. I have consistently received scholarships and the "Merit Student" title in each academic year. Currently, I am a Research Assistant at **The Chinese University of Hong Kong, Shenzhen**, affiliated with the [CUHKSZ NLP Group](https://freedomintelligence.github.io/) under the supervision of [Prof. Benyou Wang](https://wabyking.github.io/old.html). Perviously, I had participated in a Research Camp led by MIT Professor **[Manolis Kellis](https://web.mit.edu/manoli/)**, where I earned an **A** (98) and ranked **1st** in my team.
+Hi! Welcome to Barry's homepage. I am a Computer Science senior student at **Northeastern University**, ranking in the **top 3 (2.6%)** of my major with an average score of **92.2**. I have consistently received scholarships and the "Merit Student" title in each academic year. Currently, I am a Research Assistant at **The Chinese University of Hong Kong, Shenzhen**, affiliated with the [CUHKSZ NLP Group](https://freedomintelligence.github.io/) under the supervision of [Prof. Benyou Wang](https://wabyking.github.io/old.html). Perviously, I had participated in a Research Camp led by **MIT** Professor [Manolis Kellis](https://web.mit.edu/manoli/), where I earned an **A** (98) and ranked **1st** in my team.
 
 My research interests include Multimodal Large Language Models (MLLMs), AI for Healthcare, Fintech, Artificial General Intelligence (AGI), and Human-Computer Interaction and actively seeking **MPhil/Ph.D.** positions and am open to self-funded MPhil opportunities in 2025 Fall.
 
