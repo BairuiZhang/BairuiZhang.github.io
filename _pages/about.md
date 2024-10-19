@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! Welcome to Bairui (Barry) Zhang's homepage. I am a senior in Computer Science at **Northeastern University**, where I rank in the **top 3 (2.6%)** of my major with a GPA of **92.2**. Currently, I serve as a Research Assistant at **The Chinese University of Hong Kong, Shenzhen**, affiliated with the [CUHKSZ NLP Group](https://freedomintelligence.github.io/) under the supervision of [Prof. Benyou Wang](https://wabyking.github.io/old.html). Previously, I participated in a Research Camp led by **MIT** Professor [Manolis Kellis](https://web.mit.edu/manoli/), where I earned an **A** (98) and ranked **1st** in my team.
 
-My research interests include Multimodal Large Language Models (MLLMs), AI for Healthcare, Fintech, Artificial General Intelligence (AGI), and Human-Computer Interaction and actively seeking **MPhil/Ph.D.** positions and am open to self-funded MPhil opportunities in 2025 Fall. 
+My research interests include Multimodal Large Language Models (MLLMs), AI Agent, AI for Healthcare, Fintech, Artificial General Intelligence (AGI), and Human-Computer Interaction and actively seeking **MPhil/Ph.D.** positions and am open to self-funded MPhil opportunities in 2025 Fall. 
 
 You can contact me through: Barryzbr12[AT]gmail.com and Barryzhang[AT]stumail.neu.edu.cn
 
@@ -44,11 +44,24 @@ My research interest includes neural machine translation and computer vision. I 
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -->
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This task aims to identify emotions in text. While Prompt Tuning (PT) has been used, current detectors struggle with designing efficient prompts. We propose VISPOR (Visual Emotion Prefix-guided Emotion Detector), which leverages visual information to enhance emotion detection. By aligning emotional text descriptions with images and using visually enriched embeddings as prefixes, VISPOR captures more nuanced emotion features. Experiments show VISPOR outperforms existing methods on three benchmarks.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors SCI JCR Q2</div><img src='images/sensors.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Artificial Intelligence in Pancreatic Image Analysis: A Review](https://doi.org/10.3390/s24144749)
+
+Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
+
+- This work explores the application of AI in pancreatic cancer diagnosis, focusing on segmentation, classification, object detection, and prognosis prediction using CT, MRI, EUS, PET, and pathological images. It aims to improve diagnostic and treatment accuracy by integrating various imaging techniques, and discusses current trends and future developments in AI-driven pancreatic cancer diagnosis.
+</div>
+</div>
+
+<!--
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
