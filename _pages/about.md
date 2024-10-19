@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Welcome to Barry's homepage. I am a Computer Science senior student at **Northeastern University**, ranking in the **top 3 (2.6%)** of my major with an average score of **92.2**. I have consistently received scholarships and the "Merit Student" title in each academic year. Currently, I am a Research Assistant at **The Chinese University of Hong Kong, Shenzhen**, affiliated with the [CUHKSZ NLP Group](https://freedomintelligence.github.io/) under the supervision of [Prof. Benyou Wang](https://wabyking.github.io/old.html). Perviously, I had participated in a Research Camp led by **MIT** Professor [Manolis Kellis](https://web.mit.edu/manoli/), where I earned an **A** (98) and ranked **1st** in my team.
+Hi! Welcome to Bairui (Barry) Zhang's homepage. I am a senior in Computer Science at **Northeastern University**, where I rank in the **top 3 (2.6%)** of my major with a GPA of **92.2**. Currently, I serve as a Research Assistant at **The Chinese University of Hong Kong, Shenzhen**, affiliated with the [CUHKSZ NLP Group](https://freedomintelligence.github.io/) under the supervision of [Prof. Benyou Wang](https://wabyking.github.io/old.html). Previously, I participated in a Research Camp led by **MIT** Professor [Manolis Kellis](https://web.mit.edu/manoli/), where I earned an **A** (98) and ranked **1st** in my team.
 
 My research interests include Multimodal Large Language Models (MLLMs), AI for Healthcare, Fintech, Artificial General Intelligence (AGI), and Human-Computer Interaction and actively seeking **MPhil/Ph.D.** positions and am open to self-funded MPhil opportunities in 2025 Fall.
 
@@ -26,8 +26,9 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 Meritorious Winner (Top 7%), The Mathematical Contest in Modeling ([MCM/ICM](https://www.comap.com/)).
-- *2022.02*: &nbsp;🎉🎉 First Prize (Top 5%), The Asia and Pacific Mathematical Contest in Modeling ([APMCM](http://www.apmcm.org/?language=en)). 
+- *2024.10*: &nbsp;🎉🎉 A Paper Have Submitted to NAACL, The more, the merrier: Detecting Categorical Emotions from Texts with Cross-modal Insights.
+- *2024.10*: &nbsp;🎉🎉 A Paper Have Accepted by Sensors, AI in Pancreatic Cancer Analysis: A Review.
+- *2024.06*: &nbsp;🎉🎉 Prof. Benyou Wang accept me as an research assistant at CUHK-shenzhen.
 
 # 📝 Publications 
 
@@ -50,8 +51,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2025.06 (now)*, Northeastern University, Bachelor of Engineering. Computer Science & Technology. 
+- *2024.06 - 2025.06*, The Chinese University of Hong Kong, Shenzhen, School of Data Science, Visiting Student.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
