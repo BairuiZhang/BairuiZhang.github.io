@@ -93,8 +93,9 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 <div class='paper-box-text' markdown="1">
 
 Summer Camper Supervised by MIT Professor [Manolis Kellis](https://web.mit.edu/manoli/).
+
 **Team Leader**
-- This work develops a machine learning model to predict mortality and recommend medications for sepsis patients. Extreme Gradient Boosting achieved the best accuracy for both mortality (0.802) and drug prediction (0.867). Key factors affecting mortality include age and respiratory rate. Heparin, Acetaminophen, and Metoprolol Tartrate were effective, while Hydromorphone was linked to higher mortality.
+- This work develops a model to predict mortality and recommend medications for sepsis patients. Barry played a key role, contributing to data extraction, feature processing, coding, and model implementation. His expertise in data mining, statistical analysis, and project management was highlighted, earning him high evaluation scores. He was recognized as a collaborative team member and ranked #1 out of 4 in his team, achieving a score of 98/100 and an A grade, see the [Recommendation Letter](./assets/Evaluation.pdf) from Manolis Kellis Here.
 </div>
 </div>
   
