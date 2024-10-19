@@ -26,7 +26,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 A Paper Have Submitted to NAACL, The more, the merrier: Detecting Categorical Emotions from Texts with Cross-modal Insights.
+- *2024.10*: &nbsp;🎉🎉 A Paper Have Submitted to NAACL, Augmenting Categorical Emotion Detection with Visual Emotion Priors.
 - *2024.10*: &nbsp;🎉🎉 A Paper Have Accepted by Sensors, AI in Pancreatic Cancer Analysis: A Review.
 - *2024.06*: &nbsp;🎉🎉 Prof. Benyou Wang accept me as an research assistant at CUHK-shenzhen.
 
