@@ -21,7 +21,7 @@ Hi! Welcome to Bairui (Barry) Zhang's homepage. I am a senior in Computer Scienc
 
 My research interests include Multimodal Large Language Models (MLLMs), AI Agent, AI for Healthcare, Fintech, Artificial General Intelligence (AGI), and Human-Computer Interaction and actively seeking **MPhil/Ph.D.** positions and am open to self-funded MPhil opportunities in 2025 Fall. 
 
-You can contact me through: Barryzbr12[AT]gmail.com and Barryzhang[AT]stumail.neu.edu.cn
+Contact me through: Barryzbr12[AT]gmail.com or Barryzhang[AT]stumail.neu.edu.cn
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -76,16 +76,22 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02* Meritorious Winner (Top 7% in the world), Mathmatical Contests in Modeling ([MCM/ICM](https://www.comap.com/)).
+- *2023.11* First Prize (Top 5% in the world), Asia and Pacific Mathematical Contest in Modeling ([APMCM](http://www.apmcm.org/index?language=cn)).
+- *2024.10* First Prize Scholarship (Top 1.7%), Northeastern University.
+- *2021-2023* Merit Student (Each Academic Year), Northeastern University.
+- *2021-2023* University Scholarship (Four Consecutive Semester), Northeastern University. 
 
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, Northeastern University, Bachelor of Engineering. Computer Science & Technology. 
 - *2024.06 - 2025.06*, The Chinese University of Hong Kong, Shenzhen, School of Data Science, Visiting Student.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💬 Tutorial and Talk
+- *2023.09-2023.12*, International Subject Assistant, Northeastern University & University of Technology Sydney.
+<!--
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+-->
+<!--
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
