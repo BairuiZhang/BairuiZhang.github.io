@@ -37,7 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL Under Review</div><img src='images/Multimodal Emotional Recognition.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Augmenting Categorical Emotion Detection with Visual Emotion Priors](https://openreview.net/pdf?id=mCFaCiVIlb)
+[Augmenting Categorical Emotion Detection with Visual Emotion Priors](./assets/NAACL.pdf)
 
 **Bairui Zhang**, Changrong Min, Hongfei Lin, Ximing Li
 
