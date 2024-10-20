@@ -29,7 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 A Paper Have Submitted to NAACL, Augmenting Categorical Emotion Detection with Visual Emotion Priors.
-- *2024.10*: &nbsp;🎉🎉 A Paper Have Accepted by Sensors, AI in Pancreatic Cancer Analysis: A Review.
+- *2024.07*: &nbsp;🎉🎉 A Paper Have Accepted by Sensors, AI in Pancreatic Cancer Analysis: A Review.
 - *2024.06*: &nbsp;🎉🎉 Prof. Benyou Wang accept me as an research assistant at CUHK-shenzhen.
 
 # 📝 Publications 
@@ -52,7 +52,11 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors SCI JCR Q2</div><img src='images/sensors.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Artificial Intelligence in Pancreatic Image Analysis: A Review](https://doi.org/10.3390/s24144749)
+[Artificial Intelligence in Pancreatic Image Analysis: A Review](https://doi.org/10.3390/s24144749
+        
+        
+        
+        )
 
 Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 
@@ -63,7 +67,11 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISAIMS</div><img src='images/ISAIMS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Factors that increase the mortality of sepsis and personalized medication for patients with sepsis](https://dl.acm.org/doi/pdf/10.1145/3644116.3644330)
+[Factors that increase the mortality of sepsis and personalized medication for patients with sepsis](https://dl.acm.org/doi/pdf/10.1145/3644116.3644330
+        
+        
+        
+        )
 
 **Bairui Zhang**, Qianlong Cai, Junyang Ding, Kaitao Yuan
 
@@ -92,7 +100,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Summer Camp</div><img src='images/MIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Summer Camper Supervised by MIT Professor [Manolis Kellis](https://web.mit.edu/manoli/).
+*2023.07 - 2023.08*, 🌞 Summer Camper Supervised by MIT Professor [Manolis Kellis](https://web.mit.edu/manoli/).
 
 **Team Leader**
 - This work develops a model to predict mortality and recommend medications for sepsis patients. Barry played a key role, contributing to data extraction, feature processing, coding, and model implementation. His expertise in data mining, statistical analysis, and project management was highlighted, earning him high evaluation scores. He was recognized as a collaborative team member and ranked #1 out of 4 in his team, achieving a score of 98/100 and an A grade, see the [Recommendation Letter](./assets/Evaluation.pdf) from Manolis Kellis Here.
@@ -103,7 +111,8 @@ Summer Camper Supervised by MIT Professor [Manolis Kellis](https://web.mit.edu/m
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-<!--
+
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
+- *2022.08 - 2022.11*, Beijing Codnoy Technology Co., Ltd., Software Engineering, China.
+- *2023.07 - 2023.09*, Chipcis (Shanghai) Information Tech Co., Ltd., Software Engineering, China.
+
