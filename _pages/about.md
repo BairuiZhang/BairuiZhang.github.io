@@ -83,11 +83,11 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 - *2021-2023*, University Scholarship (Four Consecutive Semester), Northeastern University. 
 
 # 📖 Educations
-- *2021.09 - 2025.06*, Northeastern University, Bachelor of Engineering. Computer Science & Technology. 
+- *2021.09 - 2025.06*, Northeastern University, Bachelor of Engineering, Computer Science & Technology. 
 - *2024.06 - 2025.06*, The Chinese University of Hong Kong, Shenzhen, Visiting Student, School of Data Science.
 
 # 💬 Tutorial and Experience
-- *2023.09-2023.12*, International Subject Assistant, Northeastern University & University of Technology Sydney.
+- *2023.09-2023.12*, TA for Software Architecture & Engineering Economics, Northeastern University & University of Technology Sydney.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Summer Camp</div><img src='images/MIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
