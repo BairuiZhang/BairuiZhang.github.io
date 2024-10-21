@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! Welcome to Bairui (Barry) Zhang's homepage. I am a senior in Computer Science at **Northeastern University**, where I rank in the **top 3 (2.6%)** of my major with a GPA of **92.2**. Currently, I serve as a Research Assistant at **The Chinese University of Hong Kong, Shenzhen**, affiliated with the [CUHKSZ NLP Group](https://freedomintelligence.github.io/) under the supervision of [Prof. Benyou Wang](https://wabyking.github.io/old.html). Previously, I participated in a Research Camp led by **MIT** Professor [Manolis Kellis](https://web.mit.edu/manoli/), where I earned an **A** (98) and ranked **1st** in my team.
 
-My research interests include Multimodal Large Language Models (MLLMs), AI Agent, AI for Healthcare, Fintech, Artificial General Intelligence (AGI), and Human-Computer Interaction and actively seeking **MPhil/Ph.D.** positions and am open to self-funded MPhil opportunities in 2025 Fall. 
+My research interests include Multimodal Large Language Models (MLLMs), AI Agent, AI for Healthcare, Fintech, Artificial General Intelligence (AGI), and Human-Computer Interaction. I am actively seeking **MPhil/Ph.D.** positions and open to self-funded MPhil opportunities in 2025 Fall. 
 
 Contact me through: Barryzbr12[AT]gmail.com or Barryzhang[AT]stumail.neu.edu.cn. Find my [CV](./assets/CV_Bairui_Zhang.pdf) Here.
 
@@ -30,7 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 A Paper Have Submitted to NAACL, Augmenting Categorical Emotion Detection with Visual Emotion Priors.
 - *2024.07*: &nbsp;🎉🎉 A Paper Have Accepted by Sensors, AI in Pancreatic Cancer Analysis: A Review.
-- *2024.06*: &nbsp;🎉🎉 Prof. Benyou Wang accept me as an research assistant at CUHK-shenzhen.
+- *2024.06*: &nbsp;🎉🎉 Prof. Benyou Wang accept me as an research assistant at CUHK-Shenzhen.
 
 # 📝 Publications 
 
@@ -108,5 +108,3 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 - *2024.06 - 2025.06*, The Chinese University of Hong Kong, Shenzhen, Research Assistant, China.
 - *2023.07 - 2023.09*, Chipcis (Shanghai) Information Tech Co., Ltd., Software Engineer, China.
 - *2022.08 - 2022.11*, Beijing Codnoy Technology Co., Ltd., Software Engineer, China.
-
-
