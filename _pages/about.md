@@ -86,7 +86,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 - *2021.09 - 2025.06*, Northeastern University, Bachelor of Engineering, Computer Science & Technology. 
 - *2024.06 - 2025.06*, The Chinese University of Hong Kong, Shenzhen, Visiting Student, School of Data Science.
 
-# 💬 Tutorial and Experience
+# 💬 Tutorial and Workshop
 - *2023.09-2023.12*, TA for Software Architecture & Engineering Economics, Northeastern University & University of Technology Sydney.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Summer Camp</div><img src='images/MIT.png' alt="sym" width="100%"></div></div>
@@ -98,7 +98,17 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 - This work develops a model to predict mortality and recommend medications for sepsis patients. Barry played a key role, contributing to data extraction, feature processing, coding, and model implementation. His expertise in data mining, statistical analysis, and project management was highlighted, earning him high evaluation scores. He was recognized as a collaborative team member and ranked #1 out of 4 in his team, achieving a score of 98/100 and an A grade, see the [Recommendation Letter](./assets/Evaluation.pdf) from Manolis Kellis Here.
 </div>
 </div>
-  
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Workshop</div><img src='images/Future Science Week.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+😉*2024.11.01 - 2024.11.03*, Future Science Prize Week.
+
+**Invited Participant**
+- This symposium, known as the Future Science Prize Week, is a prestigious event that gathers leading scientists, researchers, and academics from around the globe to discuss and explore the cutting-edge advancements in science and technology. It features keynote speeches by distinguished individuals such as Euan Ashley from Stanford University, Onur Mutlu from ETH Zurich, Gabriel Loh from AMD, and Wang Yu from Tsinghua University, who are all recognized as Fellows of the ACM and IEEE, among other accolades. The event is chaired by notable figures like Ren Yonghua, a professor at the University of Hong Kong and an academician of the Chinese Academy of Sciences, and Xie Yuan, a professor at the Hong Kong University of Science and Technology. The symposium is dedicated to harnessing the potential of biomedical artificial intelligence, focusing on memory-centric computing, providing AI capabilities in the post-Moore era, designing energy-efficient circuits and systems for the AI 2.0 era, and pursuing the essence of intelligence. It serves as a platform to foster innovation, collaboration, and the exchange of ideas that shape the future of science.
+</div>
+</div>
+
 <!--
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
