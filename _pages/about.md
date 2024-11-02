@@ -99,7 +99,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Workshop</div><img src='images/Future Science Week.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Workshop</div><img src='images/Future Science Prize Week.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 😉*2024.11.01 - 2024.11.03*, Future Science Prize Week.
