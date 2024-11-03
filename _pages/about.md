@@ -52,7 +52,9 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors SCI JCR Q2</div><img src='images/sensors.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Artificial Intelligence in Pancreatic Image Analysis: A Review](https://doi.org/10.3390/s24144749)
+[Artificial Intelligence in Pancreatic Image Analysis: A Review](https://doi.org/10.3390/s24144749
+        
+        )
 
 Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 
@@ -105,7 +107,9 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 😉*2024.11.01 - 2024.11.03*, Future Science Prize Week.
 
 **Invited Participant**
-- This symposium, known as the Future Science Prize Week, is a prestigious event that gathers leading scientists, researchers, and academics from around the globe to discuss and explore the cutting-edge advancements in science and technology. It features keynote speeches by distinguished individuals such as Euan Ashley from Stanford University, Onur Mutlu from ETH Zurich, Gabriel Loh from AMD, and Wang Yu from Tsinghua University, who are all recognized as Fellows of the ACM and IEEE, among other accolades. The event is chaired by notable figures like Ren Yonghua, a professor at the University of Hong Kong and an academician of the Chinese Academy of Sciences, and Xie Yuan, a professor at the Hong Kong University of Science and Technology. The symposium is dedicated to harnessing the potential of biomedical artificial intelligence, focusing on memory-centric computing, providing AI capabilities in the post-Moore era, designing energy-efficient circuits and systems for the AI 2.0 era, and pursuing the essence of intelligence. It serves as a platform to foster innovation, collaboration, and the exchange of ideas that shape the future of science.
+- The Future Science Prize Week is a prestigious gathering of leading scientists, researchers, and academics from around the world to discuss cutting-edge advancements in science and technology. This event features keynote speeches from influential figures such as Euan Ashley from Stanford University and Ma Yi from the University of Hong Kong. The symposium is chaired by notable figures like Ren Yonghua, a professor at the HKU and an academician of the Chinese Academy of Sciences, and Xie Yuan, a professor at HKUST. These esteemed leaders guide the event's focus on topics such as AI in medicine, making computers smarter, energy-efficient AI systems, and understanding intelligence. The Future Science Prize Week serves as a platform for fostering innovation, collaboration, and the exchange of ideas that shape the future of science.
+
+
 </div>
 </div>
 
