@@ -28,6 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
+- *2024.11*: &nbsp;😎😎 Honored to be invited to the Future Science Prize Week, joining global scientific leaders in groundbreaking scientific discussions!
 - *2024.10*: &nbsp;🎉🎉 A Paper Have Submitted to NAACL, Augmenting Categorical Emotion Detection with Visual Emotion Priors.
 - *2024.07*: &nbsp;🎉🎉 A Paper Have Accepted by Sensors, AI in Pancreatic Cancer Analysis: A Review.
 - *2024.06*: &nbsp;🎉🎉 Prof. Benyou Wang accept me as an research assistant at CUHK-Shenzhen.
@@ -99,7 +100,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Workshop</div><img src='images/Future Science Prize Week.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Symposiu</div><img src='images/Future Science Prize Week.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 😉*2024.11.01 - 2024.11.03*, Future Science Prize Week with Professor [Yi Ma](https://people.eecs.berkeley.edu/~yima/).
