@@ -87,7 +87,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 - *2021.09 - 2025.06*, Northeastern University, Bachelor of Engineering, Computer Science & Technology. 
 - *2024.06 - 2025.06*, The Chinese University of Hong Kong, Shenzhen, Visiting Student, School of Data Science.
 
-# 💬 Tutorial and Workshop
+# 💬 TA and Workshop
 - *2023.09-2023.12*, TA for Software Architecture & Engineering Economics, Northeastern University & University of Technology Sydney.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Summer Camp</div><img src='images/MIT.png' alt="sym" width="100%"></div></div>
@@ -100,7 +100,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Symposiu</div><img src='images/Future Science Prize Week.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Symposium</div><img src='images/Future Science Prize Week.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 😉*2024.11.01 - 2024.11.03*, Future Science Prize Week with Professor [Yi Ma](https://people.eecs.berkeley.edu/~yima/).
