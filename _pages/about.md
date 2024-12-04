@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Welcome to Bairui (Barry) Zhang's homepage. I am a senior in Computer Science at **Northeastern University**, where I rank in the **top 3 (2.6%)** of my major with a GPA of **92.2**. Currently, I serve as a Research Assistant at **The Chinese University of Hong Kong, Shenzhen**, affiliated with the [CUHKSZ NLP Group](https://freedomintelligence.github.io/) under the supervision of [Prof. Benyou Wang](https://wabyking.github.io/old.html). Previously, I participated in a Research Camp led by **MIT** Professor [Manolis Kellis](https://web.mit.edu/manoli/), where I earned an **A** (98) and ranked **1st** in my team.
+Hi! Welcome to Bairui (Barry) Zhang's homepage. I am a senior in Computer Science at **Northeastern University**, where I rank in the **top 2.6%** of my major with a GPA of **3.99/4.0**. Currently, I serve as a Research Assistant at **The Chinese University of Hong Kong, Shenzhen**, affiliated with the [CUHKSZ NLP Group](https://freedomintelligence.github.io/) under the supervision of [Prof. Benyou Wang](https://wabyking.github.io/old.html). Previously, I participated in a Research Camp led by **MIT** Professor [Manolis Kellis](https://web.mit.edu/manoli/), where I earned an **A** (98) and ranked **1st** in my team.
 
-My research interests include Multimodal Large Language Models (MLLMs), AI Agent, AI for Healthcare, Fintech, Artificial General Intelligence (AGI), and Human-Computer Interaction. I am actively seeking **MPhil/Ph.D.** positions and open to self-funded MPhil opportunities in 2025 Fall. 
+My research interests include Multimodal Large Language Models (MLLMs), AI Agent, AI for Healthcare, Fintech, Artificial General Intelligence (AGI), and Human-Computer Interaction. I am actively seeking **MPhil/Ph.D.** opportunities in 2025 Fall.
 
 Contact me through: Barryzbr12[AT]gmail.com or Barryzhang[AT]stumail.neu.edu.cn. Find my [CV](./assets/CV_Bairui_Zhang.pdf) Here.
 
@@ -80,11 +80,11 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 - *2024.02*, Meritorious Winner (Top 8% in the world), Mathmatical Contests in Modeling ([MCM/ICM](https://www.comap.com/)). See [Paper](./assets/SubmittedICM.pdf) Here.
 - *2023.11*, First Prize (Top 5% in the world), Asia and Pacific Mathematical Contest in Modeling ([APMCM](http://www.apmcm.org/index?language=cn)). See [Paper](./assets/apmcm.pdf) Here.
 - *2024.10*, First Prize Scholarship (1/113), Northeastern University.
-- *2021-2023*, Merit Student (Each Academic Year), Northeastern University.
+- *2021-2024*, Merit Student (Each Academic Year), Northeastern University.
 - *2021-2023*, University Scholarship (Four Consecutive Semester), Northeastern University. 
 
 # 📖 Educations
-- *2021.09 - 2025.06*, Northeastern University, Bachelor of Engineering, Computer Science & Technology. 
+- *2021.09 - 2025.06*, Northeastern University, Bachelor of Engineering, Computer Science & Technology (GPA:3.99/4.0 Top 2.6%). 
 - *2024.06 - 2025.06*, The Chinese University of Hong Kong, Shenzhen, Visiting Student, School of Data Science.
 
 # 💬 TA and Workshop
