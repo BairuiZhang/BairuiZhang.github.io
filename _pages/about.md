@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.11*: &nbsp;😎😎 Honored to be invited to the Future Science Prize Week, joining global scientific leaders in groundbreaking scientific discussions!
 - *2024.10*: &nbsp;🎉🎉 A Paper Have Submitted to NAACL, Augmenting Categorical Emotion Detection with Visual Emotion Priors.
 - *2024.07*: &nbsp;🎉🎉 A Paper Have Accepted by Sensors, AI in Pancreatic Cancer Analysis: A Review.
-- *2024.06*: &nbsp;🎉🎉 Prof. Benyou Wang accept me as an research assistant at CUHK-Shenzhen.
+- *2024.06*: &nbsp;🎉🎉 Prof. Benyou Wang accept me as a research assistant at CUHK-Shenzhen.
 
 # 📝 Publications 
 
@@ -53,7 +53,11 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors SCI JCR Q2</div><img src='images/sensors.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Artificial Intelligence in Pancreatic Image Analysis: A Review](https://doi.org/10.3390/s24144749)
+[Artificial Intelligence in Pancreatic Image Analysis: A Review](https://doi.org/10.3390/s24144749
+        
+        
+        
+        )
 
 Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 
