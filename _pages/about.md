@@ -64,7 +64,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISAIMS</div><img src='images/ISAIMS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Factors that increase the mortality of sepsis and personalized medication for patients with sepsis](https://dl.acm.org/doi/pdf/10.1145/3644116.364433)
+[Factors that increase the mortality of sepsis and personalized medication for patients with sepsis (https://dl.acm.org/doi/abs/10.1145/3644116.3644330)
 
 **Bairui Zhang**, Qianlong Cai, Junyang Ding, Kaitao Yuan
 
