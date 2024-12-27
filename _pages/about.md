@@ -114,7 +114,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Colloquium</div><img src='images/Photo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-🤩*2024.12.27*, Exploring the Importance of Sensorimotor Experience in Artificial Intelligence
+🤩*2024.12.26*, Exploring the Importance of Sensorimotor Experience in Artificial Intelligence
 
 **Colloquium Participant**
 - Today, I attended a fascinating seminar titled "The Increasing Role of Sensorimotor Experience in Artificial Intelligence," presented by Professor [Richard S. Sutton](http://www.incompleteideas.net/). Professor Sutton elaborated on the four-step developmental path of AI, highlighting the significance of sensorimotor experience and the central role of reward signals in reinforcement learning. He also emphasized the future potential of experiential knowledge and predictive modeling in advancing AI. This insightful talk deepened my understanding of how sensorimotor experience drives AI research and inspired me to explore its future applications.
