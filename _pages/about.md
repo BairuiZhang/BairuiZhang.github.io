@@ -112,7 +112,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Colloquium</div><img src='images/Photo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Colloquium</div><img src='images/Photo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 🤩*2024.12.27*, Exploring the Importance of Sensorimotor Experience in Artificial Intelligence
 
