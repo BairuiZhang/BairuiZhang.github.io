@@ -93,7 +93,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Summer Camp</div><img src='images/MIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🌞*2023.07 - 2023.08*, Summer Camp Advised by MIT Professor [Manolis Kellis](https://web.mit.edu/manoli/).
+🌞*2023.07 - 2023.08*, Summer Research Camp Advised by MIT Professor [Manolis Kellis](https://web.mit.edu/manoli/).
 
 **Team Leader**
 - This work develops a model to predict mortality and recommend medications for sepsis patients. Barry played a key role, contributing to data extraction, feature processing, coding, and model implementation. His expertise in data mining, statistical analysis, and project management was highlighted, earning him high evaluation scores. He was recognized as a collaborative team member and ranked #1 out of 4 in his team, achieving a score of 98/100 and an A grade, see the [Evaluation](./assets/Evaluation.pdf) from Prof. Kellis Here.
