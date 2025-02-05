@@ -19,19 +19,21 @@ redirect_from:
 
 Hi! Welcome to Bairui (Barry) Zhang's homepage. I am a senior in Computer Science at **Northeastern University**, where I GPA rank in the **top 2.6%** of my major with a GPA of **3.99/4.0**. Currently, I serve as a Research Assistant at **The Chinese University of Hong Kong, Shenzhen**, affiliated with the [CUHKSZ NLP Group](https://freedomintelligence.github.io/) under the supervision of [Prof. Benyou Wang](https://wabyking.github.io/old.html). Previously, I participated in a Research Camp led by **MIT** Professor [Manolis Kellis](https://web.mit.edu/manoli/), where I earned an **A** (98) and ranked **1st** in my team.
 
-My research interests include Multimodal Large Language Models (MLLMs), AI Agent, AI for Healthcare, Fintech, Artificial General Intelligence (AGI), and Human-Computer Interaction. I am actively seeking **MPhil/Ph.D.** opportunities in 2025 Fall.
+My research interests include Multimodal Large Language Models (MLLMs), AI Agent, AI for Healthcare, Embodied Intelligence, AGI, and Human-Computer Interaction. I am actively seeking **MPhil/Ph.D.** opportunities in 2025 Fall.
 
 Contact me through: Barryzbr12[AT]gmail.com or Barryzhang[AT]stumail.neu.edu.cn. Find my [CV](./assets/CV_Bairui_Zhang.pdf) Here.
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
--->
 
+-->
+<!--
 # 🔥 News
 - *2024.11*: &nbsp;😎😎 Honored to be invited to the Future Science Prize Week, joining global scientific leaders in groundbreaking scientific discussions!
 - *2024.10*: &nbsp;🎉🎉 A Paper Have Submitted to NAACL, Augmenting Categorical Emotion Detection with Visual Emotion Priors.
 - *2024.07*: &nbsp;🎉🎉 A Paper Have Accepted by Sensors, AI in Pancreatic Cancer Analysis: A Review.
 - *2024.06*: &nbsp;🎉🎉 Prof. Benyou Wang accept me as a research assistant at CUHK-Shenzhen.
+-->
 
 # 📝 Publications 
 
@@ -40,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Augmenting Categorical Emotion Detection with Visual Emotion Priors](./assets/NAACL.pdf)
 
-**Bairui Zhang**, Changrong Min, Hongfei Lin, Ximing Li
+Changrong Min, **Bairui Zhang**, Hongfei Lin, Ximing Li
 
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
