@@ -37,6 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL Under Review</div><img src='images/Multimodal Emotional Recognition.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,7 +51,7 @@ Changrong Min, **Bairui Zhang**, Hongfei Lin, Ximing Li
 - This task aims to identify emotions in text. While Prompt Tuning (PT) has been used, current detectors struggle with designing efficient prompts. We propose VISPOR (Visual Emotion Prefix-guided Emotion Detector), which leverages visual information to enhance emotion detection. By aligning emotional text descriptions with images and using visually enriched embeddings as prefixes, VISPOR captures more nuanced emotion features. Experiments show VISPOR outperforms existing methods on three benchmarks.
 </div>
 </div>
-
+-->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors SCI JCR Q2</div><img src='images/sensors.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
