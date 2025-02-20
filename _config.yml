@@ -7,7 +7,10 @@
 
 # Site Settings
 title                    : "Bairui Zhang"
-description              : "RA in CUHK-Shenzhen, Shool of Data Science"
+description: |
+  RA in CUHK-Shenzhen
+  Undergraduate in NEU
+  MBTI: ENFJ (Protagonist)
 repository               : "Bairuizhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +26,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bairui Zhang"
   avatar           : "images/Barry-512x512.png"
-  bio              : "Northeastern University"
+  bio              : "Everything Happens for My Benefit."
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
