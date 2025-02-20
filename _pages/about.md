@@ -27,17 +27,17 @@ Contact me through: Barryzbr12[AT]gmail.com or Barryzhang[AT]stumail.neu.edu.cn.
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 -->
-<!--
+
 # 🔥 News
-- *2024.11*: &nbsp;😎😎 Honored to be invited to the Future Science Prize Week, joining global scientific leaders in groundbreaking scientific discussions!
+- *2025.02*: &nbsp;🎉🎉 A Paper Have Submitted to ARR, Are Medical LLMs Ready? A Critical Study Using Checklist.
 - *2024.10*: &nbsp;🎉🎉 A Paper Have Submitted to NAACL, Augmenting Categorical Emotion Detection with Visual Emotion Priors.
 - *2024.07*: &nbsp;🎉🎉 A Paper Have Accepted by Sensors, AI in Pancreatic Cancer Analysis: A Review.
 - *2024.06*: &nbsp;🎉🎉 Prof. Benyou Wang accept me as a research assistant at CUHK-Shenzhen.
--->
+
 
 # 📝 Publications 
 
-<!--
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Under </div><img src='images/Multimodal Emotional Recognition.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,7 +49,7 @@ Changrong Min, **Bairui Zhang**, Hongfei Lin, Ximing Li
 - This task aims to identify emotions in text. While Prompt Tuning (PT) has been used, current detectors struggle with designing efficient prompts. We propose VISPOR (Visual Emotion Prefix-guided Emotion Detector), which leverages visual information to enhance emotion detection. By aligning emotional text descriptions with images and using visually enriched embeddings as prefixes, VISPOR captures more nuanced emotion features. Experiments show VISPOR outperforms existing methods on three benchmarks.
 </div>
 </div>
--->
+
 
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
