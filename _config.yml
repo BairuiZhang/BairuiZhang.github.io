@@ -26,7 +26,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bairui Zhang"
   avatar           : "images/Barry-512x512.png"
-  bio              : "Everything Happens for My Benefit."
+  bio              : |
+    Go with the flow
+    Que será, será
+    Everything happens for a reason
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
