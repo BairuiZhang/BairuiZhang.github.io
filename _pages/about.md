@@ -37,7 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> arXiv </div><img src='images/ARR-February.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> arXiv </div><img src='images/ARR- February.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Large Language Models for Outpatient Referral: Problem Definition, Benchmarking and Challenges](https://arxiv.org/pdf/2503.08292)
@@ -47,6 +47,7 @@ Xiaoxiao Liu, Qingying Xiao, Junying Chen, Xiangyi Feng, Xiangbo Wu, **Bairui Zh
 - This study investigates the application of large language models (LLMs) in outpatient referral tasks, proposing a comprehensive evaluation framework that includes static classification and dynamic dialogue tasks. The authors introduce the IOR-Bench dataset and find that while LLMs show limited advantages over traditional models in static tasks, they demonstrate potential in dynamic interactions by asking effective questions. The work highlights the need for further improvements in LLMs' ability to integrate diverse medical information and refine recommendations through iterative dialogues.
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Under Polish </div><img src='images/Multimodal Emotional Recognition.png' alt="sym" width="100%"></div></div>
