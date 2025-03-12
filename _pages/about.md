@@ -37,7 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> arXiv </div><img src='images/ARR-February' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> arXiv </div><img src='images/ARR-February.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Large Language Models for Outpatient Referral: Problem Definition, Benchmarking and Challenges](https://arxiv.org/pdf/2503.08292)
