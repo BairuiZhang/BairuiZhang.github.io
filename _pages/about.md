@@ -163,24 +163,12 @@ Clarity is everything.
 📅 Planning creates clarity, and clarity creates action.
 
 Fear and inner friction come from uncertainty about the future.  
-Humans, by nature, remember the worst to survive—**a thousand compliments erased by one criticism**. But this is **my life**, and everyone has their rights. You may like me or not, and I may choose not to care.  
-
-I choose to **return to myself**. I create my own energy. I immerse in my world. I love myself.  
 
 No matter what challenges arise, I remind myself:
 > "I chose this path. I know what I lack. I’m here to learn. I will not escape. I will solve it. If not today, I’m still gaining experience."
 
-I never put myself beneath anyone.  
-Words that diminish or deny are not power—they're insecurity, jealousy, or hidden admiration.
-
-I train myself toward my **ideal self**, step by step.  
-If someone dares to bully me, it means I've allowed myself to look bully-able. I correct that.
-
-I stand tall. I look others in the eye. I can be silent, ask, or say no. I protect my emotions. I know everyone is just **an evolved animal** in a society of performance—there’s no need to fear anyone.
-
 I do what I can, catch what I can, and keep **optimizing the gradient of my life**.  
 
-I don’t need to constantly think about how others—professors, roommates, outsiders—perceive me.  
 **Let go. Be free. Be me.**
 
 </div></div>
