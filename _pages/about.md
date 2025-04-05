@@ -156,7 +156,6 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 🧭 *On Clarity, Power, and Returning to the Self*
 
 I believe everything happens **for my benefit**—not by accident, but by the best arrangement of the universe.  
-I am the strongest version of myself, not because I'm perfect, but because I am **self-sufficient**, intentional, and always growing.
 
 Clarity is everything.  
 🧠 Lack of clarity is the root of procrastination.  
@@ -169,6 +168,7 @@ No matter what challenges arise, I remind myself:
 
 I do what I can, catch what I can, and keep **optimizing the gradient of my life**.  
 
+I am grateful for all that the world has gifted me. I choose to be kind, to be compassionate, to be someone lovable.  I cleanse my energy field and walk away from toxicity and laziness.  
 **Let go. Be free. Be me.**
 
 </div></div>
