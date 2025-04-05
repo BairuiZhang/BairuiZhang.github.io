@@ -147,3 +147,42 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 - *2024.06 - 2025.06*, The Chinese University of Hong Kong, Shenzhen, Research Assistant, China.
 - *2023.07 - 2023.09*, Chipcis (Shanghai) Information Tech Co., Ltd., Software Engineer, China.
 - *2022.08 - 2022.11*, Beijing Codnoy Technology Co., Ltd., Software Engineer, China.
+
+# 💭 Musings
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/fengjing.jpg' alt="Musings" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🧭 *On Clarity, Power, and Returning to the Self*
+
+I believe everything happens **for my benefit**—not by accident, but by the best arrangement of the universe.  
+I am the strongest version of myself, not because I'm perfect, but because I am **self-sufficient**, intentional, and always growing.
+
+Clarity is everything.  
+🧠 Lack of clarity is the root of procrastination.  
+📅 Planning creates clarity, and clarity creates action.
+
+Fear and inner friction come from uncertainty about the future.  
+Humans, by nature, remember the worst to survive—**a thousand compliments erased by one criticism**. But this is **my life**, and everyone has their rights. You may like me or not, and I may choose not to care.  
+
+I choose to **return to myself**. I create my own energy. I immerse in my world. I love myself.  
+
+No matter what challenges arise, I remind myself:
+> "I chose this path. I know what I lack. I’m here to learn. I will not escape. I will solve it. If not today, I’m still gaining experience."
+
+I never put myself beneath anyone.  
+Words that diminish or deny are not power—they're insecurity, jealousy, or hidden admiration.
+
+I train myself toward my **ideal self**, step by step.  
+If someone dares to bully me, it means I've allowed myself to look bully-able. I correct that.
+
+I stand tall. I look others in the eye. I can be silent, ask, or say no. I protect my emotions. I know everyone is just **an evolved animal** in a society of performance—there’s no need to fear anyone.
+
+I do what I can, catch what I can, and keep **optimizing the gradient of my life**.  
+
+I don’t need to constantly think about how others—professors, roommates, outsiders—perceive me.  
+**Let go. Be free. Be me.**
+
+</div></div>
+
+
