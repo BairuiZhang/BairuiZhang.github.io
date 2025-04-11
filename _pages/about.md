@@ -96,6 +96,8 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 # 🎖 Honors and Awards
 - *2024.02*, Meritorious Winner (Top 8% in the world), Mathmatical Contests in Modeling ([MCM/ICM](https://www.comap.com/)). See [Paper](./assets/SubmittedICM.pdf) Here.
 - *2023.11*, First Prize (Top 5% in the world), Asia and Pacific Mathematical Contest in Modeling ([APMCM](http://www.apmcm.org/index?language=cn)). See [Paper](./assets/apmcm.pdf) Here.
+- *2025.04*, Distinguished Undergraduate, Northeastern University.
+- *2025.04*, Innovation and Entrepreneurship Scholarship (¥1,000), Northeastern University
 - *2024.10*, First Prize Scholarship (1/113), Northeastern University.
 - *2021-2024*, Merit Student (Each Academic Year), Northeastern University.
 - *2021-2023*, University Scholarship (Four Consecutive Semester), Northeastern University. 
