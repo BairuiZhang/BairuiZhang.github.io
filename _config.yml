@@ -26,7 +26,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bairui Zhang"
   avatar           : "images/Barry-512x512.png"
-  bio              : "Breathe. Relax. Believe. Enjoy"
+  bio              : "Relax. Believe. Enjoy"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
@@ -40,7 +40,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "BairuiZhang"
   google_plus      :
   keybase          :
   instagram        :
