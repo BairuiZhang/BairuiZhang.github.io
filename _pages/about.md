@@ -149,6 +149,9 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 - *2024.06 - 2025.06*, The Chinese University of Hong Kong, Shenzhen, Research Assistant, China.
 - *2023.07 - 2023.09*, Chipcis (Shanghai) Information Tech Co., Ltd., Software Engineer, China.
 - *2022.08 - 2022.11*, Beijing Codnoy Technology Co., Ltd., Software Engineer, China.
+- 
+# 💻 Projects
+- *2024.05 - 2024.06*, Cross-Attentive Adversarial Autoencoder Based on Transformer for Multi-Modal Emotion Recognition, [Deep Learning Course Project](./assets/DeepLearning.pdf)
 
 # 💭 Musings
 
