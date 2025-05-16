@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.10*: &nbsp;🎉🎉 A Paper Have Submitted to NAACL, Augmenting Categorical Emotion Detection with Visual Emotion Priors.
 - *2024.07*: &nbsp;🎉🎉 A Paper Have Accepted by Sensors, AI in Pancreatic Cancer Analysis: A Review.
 - *2024.06*: &nbsp;🎉🎉 Prof. Benyou Wang accept me as a research assistant at CUHK-Shenzhen.
-- *2024.06*: &nbsp;🎉🎉 Happy to Receive TPG Studentship from CUHK(SZ) with ¥60,000 During the DS Programme.
+- *2024.06*: &nbsp;🎉🎉 Happy to Receive TPG Studentship from CUHK(SZ) with ¥60,000 in DS Programme.
 
 
 # 📝 Publications 
