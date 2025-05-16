@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! Welcome to Bairui (Barry) Zhang's homepage. I am a senior in Computer Science at **Northeastern University**, where I GPA rank in the **top 2.6%** of my major with a GPA of **3.99/4.0**. Currently, I serve as a Research Assistant at **The Chinese University of Hong Kong, Shenzhen**, affiliated with the [CUHKSZ NLP Group](https://freedomintelligence.github.io/) under the supervision of [Prof. Benyou Wang](https://wabyking.github.io/old.html). Previously, I participated in a Research Camp led by **MIT** Professor [Manolis Kellis](https://web.mit.edu/manoli/), where I earned an **A** (98) and ranked **1st** in my team.
 
-My research interests include Multimodal Large Language Models (MLLMs) and Embodied Intelligence. I am actively seeking **MPhil/Ph.D.** opportunities in 2025 Fall.
+My research interests include Multimodal Large Language Models (MLLMs) and Embodied Intelligence. I am actively seeking potential collaborations in industry and academia.
 
 Contact me through: Barryzbr12@gmail.com or zhangbairui@cuhk.edu.cn. Find my [CV](./assets/CV_Bairui_Zhang.pdf) and [Transcript](./assets/Transcript_WES 4.0scale.pdf) here.
 
