@@ -30,6 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 A Paper Have Submitted to ARR, Are Medical LLMs Ready? A Critical Study Using Checklist.
+- *2024.12*: &nbsp;🎉🎉 Happy to Receive RPG studentship from HKUST with 120,000¥ per year.
 - *2024.10*: &nbsp;🎉🎉 A Paper Have Submitted to NAACL, Augmenting Categorical Emotion Detection with Visual Emotion Priors.
 - *2024.07*: &nbsp;🎉🎉 A Paper Have Accepted by Sensors, AI in Pancreatic Cancer Analysis: A Review.
 - *2024.06*: &nbsp;🎉🎉 Prof. Benyou Wang accept me as a research assistant at CUHK-Shenzhen.
