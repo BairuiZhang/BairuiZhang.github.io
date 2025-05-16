@@ -19,21 +19,20 @@ redirect_from:
 
 Hi! Welcome to Bairui (Barry) Zhang's homepage. I am a senior in Computer Science at **Northeastern University**, where I GPA rank in the **top 2.6%** of my major with a GPA of **3.99/4.0**. Currently, I serve as a Research Assistant at **The Chinese University of Hong Kong, Shenzhen**, affiliated with the [CUHKSZ NLP Group](https://freedomintelligence.github.io/) under the supervision of [Prof. Benyou Wang](https://wabyking.github.io/old.html). Previously, I participated in a Research Camp led by **MIT** Professor [Manolis Kellis](https://web.mit.edu/manoli/), where I earned an **A** (98) and ranked **1st** in my team.
 
-My research interests include Multimodal Large Language Models (MLLMs), AI Agent, AI for Healthcare, Embodied Intelligence, AGI, and Human-Computer Interaction. I am actively seeking **MPhil/Ph.D.** opportunities in 2025 Fall.
+My research interests include Multimodal Large Language Models (MLLMs) and Embodied Intelligence. I am actively seeking **MPhil/Ph.D.** opportunities in 2025 Fall.
 
 Contact me through: Barryzbr12@gmail.com or zhangbairui@cuhk.edu.cn. Find my [CV](./assets/CV_Bairui_Zhang.pdf) and [Transcript](./assets/Transcript_WES 4.0scale.pdf) here.
 
-<!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
--->
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 A Paper Have Submitted to ARR, Are Medical LLMs Ready? A Critical Study Using Checklist.
-- *2024.12*: &nbsp;🎉🎉 Happy to Receive RPG studentship from HKUST with 120,000¥ per year.
+- *2024.12*: &nbsp;🎉🎉 Happy to Receive RPG Studentship from HKUST with ¥120,000 per year.
 - *2024.10*: &nbsp;🎉🎉 A Paper Have Submitted to NAACL, Augmenting Categorical Emotion Detection with Visual Emotion Priors.
 - *2024.07*: &nbsp;🎉🎉 A Paper Have Accepted by Sensors, AI in Pancreatic Cancer Analysis: A Review.
 - *2024.06*: &nbsp;🎉🎉 Prof. Benyou Wang accept me as a research assistant at CUHK-Shenzhen.
+- *2024.06*: &nbsp;🎉🎉 Happy to Receive TPG Studentship from CUHK(SZ) with ¥60,000 During the DS Programme.
 
 
 # 📝 Publications 
