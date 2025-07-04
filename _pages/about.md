@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Welcome to Bairui (Barry) Zhang's homepage. I am a senior in Computer Science at **Northeastern University**, where I GPA rank in the **top 2.6%** of my major with a GPA of **3.99/4.0**. Currently, I serve as a Research Assistant at **The Chinese University of Hong Kong, Shenzhen**, affiliated with the [CUHKSZ NLP Group](https://freedomintelligence.github.io/) under the supervision of [Prof. Benyou Wang](https://wabyking.github.io/old.html). Previously, I participated in a Research Camp led by **MIT** Professor [Manolis Kellis](https://web.mit.edu/manoli/), where I earned an **A** (98) and ranked **1st** in my team.
+Hi! Welcome to Bairui (Barry) Zhang's homepage. I recently graduated from Northeastern University with a Bachelor of Engineering in Computer Science, ranking in the top 2.6% of my major with a GPA of 3.99/4.0. Starting this August, I will pursue my MPhil in Computer Science at The Hong Kong University of Science and Technology (HKUST).
 
 My research interests include Multimodal Large Language Models (Reasoning, Training), Embodied Intelligence (LLM for Robotics & Vision Language Action Models) and their application in daily life/finance/medical scenario. I am actively seeking potential collaborations in industry and academia.
 
@@ -104,7 +104,8 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 - *2021-2023*, University Scholarship (Four Consecutive Semester), Northeastern University. 
 
 # 📖 Educations
-- *2024.06 - 2025.06*,  Visiting Student, The Chinese University of Hong Kong, Shenzhen, School of Data Science.
+- *2025.08 - 2027.08*,  MPhil Student, The Hong Kong University of Science and Technology, Guangzhou, Info hub.
+- *2024.06 - 2025.05*,  Visiting Student, The Chinese University of Hong Kong, Shenzhen, School of Data Science.
 - *2021.09 - 2025.06*, Bachelor, Northeastern University, Computer Science (GPA:3.99/4.0 Rank 3/116). 
 
 # 💬 TA and Workshop
