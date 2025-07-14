@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Welcome to Bairui (Barry) Zhang's homepage. I recently graduated from Northeastern University with a Bachelor of Engineering in Computer Science, ranking in the top 2.6% of my major with a GPA of 3.99/4.0. Starting this August, I will pursue my MPhil in Computer Science at The Hong Kong University of Science and Technology (HKUST).
+Hi! Welcome to the homepage of Bairui (Barry) Zhang. I hold a Bachelor of Engineering in Computer Science from Northeastern University, where I graduated in the top 2.6% of my class with a GPA of 3.99/4.00. Starting this August, I will begin my MPhil in AI at HKUST.
 
-My research interests include Multimodal Large Language Models (Reasoning, Training), Embodied Intelligence (LLM for Robotics & Vision Language Action Models) and their application in daily life/finance/medical scenario. I am actively seeking potential collaborations in industry and academia.
+My research interests lie in Multimodal Large Language Models (with a focus on reasoning and training), Embodied Intelligence (including LLMs for robotics and vision-language-action models), and their practical applications in domains such as daily life, finance, and medicine. I am actively seeking collaborative opportunities in both academia and industry.
 
-Contact me through: Barryzbr12@gmail.com or zhangbairui@cuhk.edu.cn. Find my [CV](./assets/CV_Bairui_Zhang.pdf) and [Transcript](./assets/Transcript_WES 4.0scale.pdf) here.
+Contact me through: Barryzbr12@gmail.com. Find my [CV](./assets/CV_Bairui_Zhang.pdf) and [Transcript](./assets/Transcript_WES 4.0scale.pdf) here.
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -32,8 +32,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.12*: &nbsp;🎉🎉 Happy to Receive RPG Studentship from HKUST with ¥120,000 per year.
 - *2024.10*: &nbsp;🎉🎉 A Paper Have Submitted to NAACL, Augmenting Categorical Emotion Detection with Visual Emotion Priors.
 - *2024.07*: &nbsp;🎉🎉 A Paper Have Accepted by Sensors, AI in Pancreatic Cancer Analysis: A Review.
-- *2024.06*: &nbsp;🎉🎉 Prof. Benyou Wang accept me as a research assistant at CUHK-Shenzhen.
-- *2024.06*: &nbsp;🎉🎉 Happy to Receive TPG Studentship from CUHK(SZ) with ¥60,000 in DS Programme.
 
 
 # 📝 Publications 
