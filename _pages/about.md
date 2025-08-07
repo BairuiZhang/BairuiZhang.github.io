@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Welcome to the homepage of Bairui (Barry) Zhang. I hold a BEng in Computer Science from Northeastern University, ranking in the top 2.6% with a GPA of 3.99/4.00. Starting this August, I will begin my MPhil in AI at HKUST.
+Hi! Welcome to the homepage of Bairui (Barry) Zhang. I am currently an MPhil student in the Information Hub at The Hong Kong University of Science and Technology (HKUST) Guangzhou Campus. Prior to this, I obtained a BEng degree in Computer Science from Northeastern University, graduating in the top 2.6% of my major with a GPA of 3.99/4.00.
 
-My research interests lie in Multimodal Large Language Models (with a focus on reasoning and training), Embodied Intelligence (including LLMs for robotics and vision-language-action models), and their practical applications in domains such as daily life, finance, and medicine. I am actively seeking collaborative opportunities in both academia and industry.
+My research interests include multimodal large language models (Reasoning), embodied intelligence (including LLMs for robotics and vision-language-action models), and their practical applications in domains such as daily life, finance, and medicine. I am actively seeking research collaboration opportunities in both academia and industry.
 
-Contact me through: Barryzbr12@gmail.com. Find my [CV](./assets/CV_Bairui_Zhang.pdf) and [Transcript](./assets/Transcript_WES 4.0scale.pdf) here.
+Contact me through: barryzbr12@gmail.com or barry.zhang@connect.hkust-gz.edu.cn. Find my [CV](./assets/CV_Bairui_Zhang.pdf) and [Transcript](./assets/Transcript_WES 4.0scale.pdf) here.
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
