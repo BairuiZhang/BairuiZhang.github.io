@@ -107,7 +107,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 - *2021.09 - 2025.06*, Bachelor, Northeastern University, Computer Science (GPA:3.99/4.0 Rank 3/116). 
 
 # 💬 TA and Workshop
-- *2023.09-2023.12*, TA for Software Architecture & Engineering Economics, Northeastern University & University of Technology Sydney.
+- *2023.09-2023.12*, TA for Software Architecture & Engineering Economics, Northeastern University.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Summer Camp</div><img src='images/MIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -146,7 +146,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 
 
 # 💻 Internships
-- *2024.06 - 2025.06*, The Chinese University of Hong Kong, Shenzhen, Research Assistant, China.
+- *2024.07 - 2025.05*, The Chinese University of Hong Kong, Shenzhen, Research Assistant, China.
 - *2023.07 - 2023.09*, Chipcis (Shanghai) Information Tech Co., Ltd., Software Engineer, China.
 - *2022.08 - 2022.11*, Beijing Codnoy Technology Co., Ltd., Software Engineer, China.
 
