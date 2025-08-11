@@ -80,7 +80,9 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISAIMS</div><img src='images/ISAIMS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Factors that increase the mortality of sepsis and personalized medication for patients with sepsis](https://dl.acm.org/doi/abs/10.1145/3644116.3644330)
+[Factors that increase the mortality of sepsis and personalized medication for patients with sepsis](https://dl.acm.org/doi/abs/10.1145/3644116.3644330
+        
+        )
 
 **Bairui Zhang**, Qianlong Cai, Junyang Ding, Kaitao Yuan
 
@@ -103,7 +105,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 
 # 📖 Educations
 - *2025.08 - 2027.08*,  MPhil Student, The Hong Kong University of Science and Technology, Guangzhou, Info hub.
-- *2024.06 - 2025.05*,  Visiting Student, The Chinese University of Hong Kong, Shenzhen, School of Data Science.
+- *2024.07 - 2025.05*,  Visiting Student, The Chinese University of Hong Kong, Shenzhen, School of Data Science.
 - *2021.09 - 2025.06*, Bachelor, Northeastern University, Computer Science (GPA:3.99/4.0 Rank 3/116). 
 
 # 💬 TA and Workshop
