@@ -93,6 +93,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 -->
 
 # 🎖 Honors and Awards
+- *2025-2027*, Postgraduate Studentship award (¥240,000), The Hong Kong University of Science and Technology (Guangzhou).
 - *2024.02*, Meritorious Winner (Top 8% in the world), Mathmatical Contests in Modeling ([MCM/ICM](https://www.comap.com/)). See [Paper](./assets/SubmittedICM.pdf) Here.
 - *2023.11*, First Prize (Top 5% in the world), Asia and Pacific Mathematical Contest in Modeling ([APMCM](http://www.apmcm.org/index?language=cn)). See [Paper](./assets/apmcm.pdf) Here.
 - *2025.04*, Distinguished Undergraduate, Northeastern University.
@@ -102,9 +103,9 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 - *2021-2023*, University Scholarship (Four Consecutive Semester), Northeastern University. 
 
 # 📖 Educations
-- *2025.08 - 2027.08*,  MPhil Student, The Hong Kong University of Science and Technology, Guangzhou, Info hub.
+- *2025.08 - 2027.08*,  M.Phil. Student, The Hong Kong University of Science and Technology, Guangzhou, Info hub.
 - *2024.07 - 2025.05*,  Visiting Student, The Chinese University of Hong Kong, Shenzhen, School of Data Science.
-- *2021.09 - 2025.06*, Bachelor, Northeastern University, Computer Science (GPA:3.99/4.0 Rank 3/116). 
+- *2021.09 - 2025.06*, B.Eng. Student, Northeastern University, Computer Science (GPA:3.99/4.0 Rank 3/116). 
 
 # 💬 TA and Workshop
 - *2023.09-2023.12*, TA for Software Architecture & Engineering Economics, Northeastern University.
@@ -155,6 +156,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 
 - *2024.05 - 2024.06*, Cross-Attentive Adversarial Autoencoder Based on Transformer for Multi-Modal Emotion Recognition, [Deep Learning Course Project](./assets/DeepLearning.pdf)
 
+<!--
 # 💭 Musings
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/fengjing.jpg' alt="Musings" width="100%"></div></div>
@@ -177,6 +179,7 @@ I do what I can, catch what I can, and keep **optimizing the gradient of my life
 
 I am grateful for all that the world has gifted me. I choose to be kind, to be compassionate, to be someone lovable.  I cleanse my energy field and walk away from toxicity and laziness.  
 **Let go. Be free. Be me.**
+-->
 
 </div></div>
 
