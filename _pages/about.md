@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Welcome to the homepage of Bairui (Barry) Zhang. I am currently an MPhil student in the Information Hub at The Hong Kong University of Science and Technology (HKUST) Guangzhou Campus. Prior to this, I obtained a BEng degree in Computer Science from Northeastern University, graduating in the top 2.6% of my major with a GPA of 3.99/4.00.
+Hi! Welcome to the homepage of Bairui (Barry) Zhang. I am currently an MPhil student in the Information Hub at The Hong Kong University of Science and Technology (HKUST) Guangzhou Campus. Prior to this, I obtained a BEng degree in Computer Science from Northeastern University (NEU), graduating in the top 2.6% of my major with a GPA of 3.99/4.00.
 
 My research interests include multimodal large language models (Reasoning), embodied intelligence (including LLMs for robotics and vision-language-action models), and their practical applications in domains such as daily life, finance, and medicine. I am actively seeking research collaboration opportunities in both academia and industry.
 
