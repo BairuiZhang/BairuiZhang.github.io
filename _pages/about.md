@@ -103,7 +103,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 - *2021-2023*, University Scholarship (Four Consecutive Semester), Northeastern University. 
 
 # 📖 Educations
-- *2025.09 - 2027.09*,  M.Phil. Student, The Hong Kong University of Science and Technology, Guangzhou, Info hub.
+- *2025.09 - 2027.09*,  M.Phil. Student, The Hong Kong University of Science and Technology (Guangzhou), Data Science and Analytics.
 - *2024.07 - 2025.05*,  Visiting Student, The Chinese University of Hong Kong, Shenzhen, School of Data Science.
 - *2021.09 - 2025.06*, B.Eng. Student, Northeastern University, Computer Science (GPA:3.99/4.0 Rank 3/116). 
 
