@@ -179,8 +179,8 @@ I do what I can, catch what I can, and keep **optimizing the gradient of my life
 
 I am grateful for all that the world has gifted me. I choose to be kind, to be compassionate, to be someone lovable.  I cleanse my energy field and walk away from toxicity and laziness.  
 **Let go. Be free. Be me.**
--->
 
 </div></div>
+-->
 
 
