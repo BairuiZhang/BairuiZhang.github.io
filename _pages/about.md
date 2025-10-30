@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Welcome to the homepage of Bairui (Barry) Zhang. I am currently an MPhil student in the Information Hub at The Hong Kong University of Science and Technology (HKUST) Guangzhou Campus. Prior to this, I obtained a BEng degree in Computer Science from Northeastern University (NEU), graduating in the top 2.6% of my major with a GPA of 3.99/4.00.
+Hi! Welcome to the homepage of Bairui (Barry) Zhang. I am currently an MPhil student in Data Science and Analytics Trust at The Hong Kong University of Science and Technology (HKUST) Guangzhou Campus. Prior to this, I obtained a BEng degree in Computer Science from Northeastern University (NEU), graduating in the top 2.6% of my major with a GPA of 3.99/4.00.
 
 My research interests include multimodal large language models (Reasoning), embodied intelligence (including LLMs for robotics and vision-language-action models), and their practical applications in domains such as daily life, finance, and medicine. I am actively seeking research collaboration opportunities in both academia and industry.
 
@@ -103,7 +103,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 - *2021-2023*, University Scholarship (Four Consecutive Semester), Northeastern University. 
 
 # 📖 Educations
-- *2025.08 - 2027.08*,  M.Phil. Student, The Hong Kong University of Science and Technology, Guangzhou, Info hub.
+- *2025.09 - 2027.09*,  M.Phil. Student, The Hong Kong University of Science and Technology, Guangzhou, Info hub.
 - *2024.07 - 2025.05*,  Visiting Student, The Chinese University of Hong Kong, Shenzhen, School of Data Science.
 - *2021.09 - 2025.06*, B.Eng. Student, Northeastern University, Computer Science (GPA:3.99/4.0 Rank 3/116). 
 
@@ -156,7 +156,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 
 - *2024.05 - 2024.06*, Cross-Attentive Adversarial Autoencoder Based on Transformer for Multi-Modal Emotion Recognition, [Deep Learning Course Project](./assets/DeepLearning.pdf)
 
-
+<!--
 # 💭 Musings
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/fengjing.jpg' alt="Musings" width="100%"></div></div>
@@ -179,7 +179,7 @@ I do what I can, catch what I can, and keep **optimizing the gradient of my life
 
 I am grateful for all that the world has gifted me. I choose to be kind, to be compassionate, to be someone lovable.  I cleanse my energy field and walk away from toxicity and laziness.  
 **Let go. Be free. Be me.**
-
+-->
 
 </div></div>
 
