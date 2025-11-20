@@ -28,6 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Happy to be selected for the fully funded Singtel Exposure Program. See you in Singapore!
 - *2025.02*: &nbsp;🎉🎉 A Paper Have Submitted to ARR, Are Medical LLMs Ready? A Critical Study Using Checklist.
 - *2024.12*: &nbsp;🎉🎉 Happy to Receive RPG Studentship from HKUST with ¥120,000 per year.
 - *2024.10*: &nbsp;🎉🎉 A Paper Have Submitted to NAACL, Augmenting Categorical Emotion Detection with Visual Emotion Priors.
@@ -69,7 +70,11 @@ Changrong Min, **Bairui Zhang**, Hongfei Lin, Ximing Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors SCI JCR Q2</div><img src='images/sensors.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Artificial Intelligence in Pancreatic Image Analysis: A Review](https://doi.org/10.3390/s24144749)
+[Artificial Intelligence in Pancreatic Image Analysis: A Review](https://doi.org/10.3390/s24144749
+        
+        
+        
+        )
 
 Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 
@@ -80,7 +85,11 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISAIMS</div><img src='images/ISAIMS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Factors that increase the mortality of sepsis and personalized medication for patients with sepsis](https://dl.acm.org/doi/abs/10.1145/3644116.3644330)
+[Factors that increase the mortality of sepsis and personalized medication for patients with sepsis](https://dl.acm.org/doi/abs/10.1145/3644116.3644330
+        
+        
+        
+        )
 
 **Bairui Zhang**, Qianlong Cai, Junyang Ding, Kaitao Yuan
 
