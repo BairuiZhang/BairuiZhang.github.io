@@ -124,7 +124,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Symposium</div><img src='images/Future Science Prize Week.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-😉*2024.11.01 - 2024.11.03*, Future Science Prize Week.
+🇭🇰*2024.11.01 - 2024.11.03*, Future Science Prize Week.
 
 **Invited Participant**
 - The Future Science Prize Week is a prestigious gathering of leading scientists, researchers, and academics from around the world to discuss cutting-edge advancements in science and technology. This event features keynote speeches from influential figures such as Euan Ashley from Stanford University focusing on Medical AI and [Ma Yi](https://people.eecs.berkeley.edu/~yima/) from the University of Hong Kong talking about the nature of intelligence and I am so honnor to take a photo with him. The symposium is chaired by notable figures like Ren Yonghua, a professor at the HKU and an academician of the Chinese Academy of Sciences, and Xie Yuan, a professor at HKUST. These esteemed leaders guide the event's focus on topics such as AI in medicine, making computers smarter, energy-efficient AI systems, and understanding intelligence. The Future Science Prize Week serves as a platform for fostering innovation, collaboration, and the exchange of ideas that shape the future of science.
