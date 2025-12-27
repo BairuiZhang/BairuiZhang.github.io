@@ -142,10 +142,15 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 </div>
 </div>
 
-<!--
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Colloquium</div><img src='images/Photo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+🇸🇬*2025.12.7-12.14*, Singtel, Singapore — Cloud & AI Innovation Immersion
 
+**Selected Participant**
+- I participated in an intensive 8-day immersion program at [Singtel](https://www.singtel.com/), one of Asia’s leading technology and communications groups. The program offered hands-on exposure to Singtel’s cloud and AI infrastructure, combined with industrial and academic visits across Singapore.
+Through close interaction with Singtel mentors and leadership, I explored how academic research can be translated into real-world digital innovation. This experience deepened my understanding of industry–academia collaboration, cloud-enabled AI systems, and the role of technology in shaping future industries, while also broadening my global perspective on digital transformation.
+</div>
+</div>
 
 # 💻 Internships
 - *2024.07 - 2025.05*, The Chinese University of Hong Kong, Shenzhen, Research Assistant, China.
