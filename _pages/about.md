@@ -144,7 +144,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sandbox</div><img src='images/Singtel.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-🇸🇬*2025.12.7-12.14*, Singtel, Singapore — Cloud & AI Innovation Immersion
+🇸🇬*2025.12.07 - 2025.12.14*, Singtel, Singapore — Cloud & AI Innovation Immersion
 
 **Selected Participant**
 - I participated in an intensive 8-day immersion program at [Singtel](https://www.singtel.com/), one of Asia’s leading technology and communications groups. The program offered hands-on exposure to Singtel’s cloud and AI infrastructure, combined with industrial and academic visits across Singapore.
