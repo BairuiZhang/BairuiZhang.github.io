@@ -70,7 +70,11 @@ Changrong Min, **Bairui Zhang**, Hongfei Lin, Ximing Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors SCI JCR Q2</div><img src='images/sensors.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Artificial Intelligence in Pancreatic Image Analysis: A Review](https://doi.org/10.3390/s24144749)
+[Artificial Intelligence in Pancreatic Image Analysis: A Review](https://doi.org/10.3390/s24144749
+        
+        
+        
+        )
 
 Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 
@@ -81,7 +85,11 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISAIMS</div><img src='images/ISAIMS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Factors that increase the mortality of sepsis and personalized medication for patients with sepsis](https://dl.acm.org/doi/abs/10.1145/3644116.3644330)
+[Factors that increase the mortality of sepsis and personalized medication for patients with sepsis](https://dl.acm.org/doi/abs/10.1145/3644116.3644330
+        
+        
+        
+        )
 
 **Bairui Zhang**, Qianlong Cai, Junyang Ding, Kaitao Yuan
 
@@ -104,8 +112,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 - *2021-2023*, University Scholarship (Four Consecutive Semester), Northeastern University. 
 
 # 📖 Educations
-- *2025.09 - 2027.09*,  M.Phil. Student, The Hong Kong University of Science and Technology (Guangzhou), Data Science and Analytics.
-- *2024.07 - 2025.05*,  Visiting Student, The Chinese University of Hong Kong, Shenzhen, School of Data Science.
+- *2025.09 - 2027.09*,  M.Phil. Student, The Hong Kong University of Science and Technology (Guangzhou), Data Science and Analytics (GPA:4.13/4.3).
 - *2021.09 - 2025.06*, B.Eng. Student, Northeastern University, Computer Science (GPA:3.99/4.0 Rank 3/116). 
 
 # 💬 TA and Workshop
