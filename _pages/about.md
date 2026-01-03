@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Welcome to the homepage of Bairui (Barry) Zhang. I am currently an MPhil student in Data Science and Analytics Trust at The Hong Kong University of Science and Technology (HKUST) Guangzhou Campus with a GPA of 4.13/4.3. Prior to this, I obtained a BEng degree in Computer Science from Northeastern University (NEU), graduating in the top 2.6% of my major with a GPA of 3.99/4.00.
+Hi! Welcome to the homepage of Bairui (Barry) Zhang. I am currently an MPhil student in Data Science and Analytics Trust at The Hong Kong University of Science and Technology, Guangzhou with a GPA of 4.13/4.3. Prior to this, I obtained a BEng degree in Computer Science from Northeastern University (NEU), graduating in the top 2.6% of my major.
 
-My research interests include multimodal agentic reasoning, vision-language-action models, and their practical applications in domains such as daily life, and medicine. I am actively seeking research collaboration opportunities in both academia and industry.
+My research interests include multimodal agentic reasoning, vision-language-action models, and their practical applications in domains such as daily life and medicine. I am actively seeking research collaboration opportunities in both academia and industry.
 
 Contact me through: barryzbr12@gmail.com or barry.zhang@connect.hkust-gz.edu.cn. Find my [CV](./assets/CV_Bairui_Zhang.pdf) and [Transcript](./assets/Transcript_WES 4.0scale.pdf) here.
 
