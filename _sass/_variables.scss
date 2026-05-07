@@ -59,7 +59,7 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : #e5e7eb;
 
-$accent-blue                : #1a56db;
+$accent-blue                : #224b8d;
 
 $primary-color              : $dark-gray;
 $success-color              : #059669;
@@ -90,10 +90,10 @@ $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
 
-/* links — muted gray-blue, not too loud */
-$link-color                 : #4b6584;
-$link-color-hover           : #2d3e50;
-$link-color-visited         : #5a7a9a;
+/* links — original deep blue */
+$link-color                 : #224b8d;
+$link-color-hover           : mix(#000, $link-color, 25%);
+$link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $dark-gray;
 $masthead-link-color-hover  : $darker-gray;
 
