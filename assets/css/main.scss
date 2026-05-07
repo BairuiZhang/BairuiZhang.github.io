@@ -40,70 +40,181 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* ==========================================================================
+   PAPER BOX - Publication Cards
+   ========================================================================== */
+
 .paper-box {
     display: flex;
     justify-content: left;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    border-bottom: 1px solid $border-color;
+    padding: 2em 0;
+    transition: background-color 0.2s ease;
 
-    .paper-box-image{
+    &:hover {
+        background-color: rgba($primary-color, 0.02);
+    }
+
+    .paper-box-image {
         justify-content: center;
         display: flex;
         width: 100%;
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            border-radius: $border-radius;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
             object-fit: cover;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+            &:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+            }
         }
     }
-    
-    .paper-box-text{
+
+    .paper-box-text {
         max-width: 100%;
         order: 1;
+
+        a {
+            font-weight: 600;
+            text-decoration: none;
+            color: $primary-color;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+
+        p {
+            font-size: $type-size-6;
+            line-height: 1.6;
+            color: $gray;
+        }
     }
-    
+
     @include breakpoint($medium) {
-        .paper-box-image{
+        .paper-box-image {
             justify-content: left;
             min-width: 200px;
             max-width: 40%;
             order: 1;
         }
-        
-        .paper-box-text{
+
+        .paper-box-text {
             justify-content: left;
             padding-left: 2em;
             max-width: 60%;
             order: 2;
         }
-
     }
-
-
 }
 
-$scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
+/* ==========================================================================
+   SCROLL OFFSET
+   ========================================================================== */
+
+$scroll_offset : 4em;
+h1:before, .anchor:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: $scroll_offset;
     margin-top: -$scroll_offset;
 }
 
+/* ==========================================================================
+   BADGE - Publication Venue Tags
+   ========================================================================== */
+
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding: 0.25em 0.75em;
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
+    margin-top: 0.5em;
+    margin-left: -0.5em;
     color: white;
-    background-color: #00369f;
-    font-size: .8em;
+    background: linear-gradient(135deg, $primary-color, mix(#000, $primary-color, 10%));
+    font-size: 0.75em;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    border-radius: 0 $border-radius $border-radius 0;
+    box-shadow: 0 2px 4px rgba($primary-color, 0.3);
+}
+
+/* ==========================================================================
+   NEWS SECTION
+   ========================================================================== */
+
+.page__content ul li {
+    position: relative;
+    padding-left: 0;
+}
+
+/* ==========================================================================
+   RESEARCH INTERESTS TAGS
+   ========================================================================== */
+
+.research-tag {
+    display: inline-block;
+    padding: 0.25em 0.75em;
+    margin: 0.2em 0.3em;
+    background-color: rgba($primary-color, 0.08);
+    color: $primary-color;
+    border-radius: 20px;
+    font-size: $type-size-6;
+    font-weight: 500;
+    border: 1px solid rgba($primary-color, 0.15);
+}
+
+/* ==========================================================================
+   SECTION STYLING
+   ========================================================================== */
+
+.page__content {
+    h1 {
+        display: flex;
+        align-items: center;
+        gap: 0.3em;
+        font-size: $type-size-3;
+        font-weight: 700;
+        color: $darker-gray;
+        border-bottom: 2px solid $primary-color;
+        padding-bottom: 0.4em;
+        margin-top: 1.5em;
+    }
+}
+
+/* ==========================================================================
+   HONORS TABLE STYLING
+   ========================================================================== */
+
+.page__content ul {
+    li {
+        line-height: 1.7;
+    }
+}
+
+/* ==========================================================================
+   SMOOTH ANIMATIONS
+   ========================================================================== */
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.paper-box {
+    animation: fadeInUp 0.5s ease both;
 }

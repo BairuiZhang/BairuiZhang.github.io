@@ -17,175 +17,148 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Welcome to the homepage of Bairui (Barry) Zhang. I am currently an MPhil student in Data Science and Analytics Trust at The Hong Kong University of Science and Technology, Guangzhou with a GPA of 4.13/4.3 supervised by [Yongqi Zhang](https://yzhangee.github.io/) and [Sihong Xie](https://sihongxie.github.io/). Prior to this, I obtained a BEng degree in Computer Science from Northeastern University (NEU), graduating in the top 2.6% of my major.
+Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil student in Data Science and Analytics Trust at [The Hong Kong University of Science and Technology, Guangzhou](https://www.hkust-gz.edu.cn/) (GPA: 4.13/4.3), supervised by [Prof. Yongqi Zhang](https://yzhangee.github.io/) and [Prof. Sihong Xie](https://sihongxie.github.io/). Prior to this, I obtained a B.Eng. in Computer Science from [Northeastern University](http://www.neu.edu.cn/) (NEU), graduating in the **top 2.6%** of my major.
 
-My research interests include multimodal agentic reasoning, vision-language-action models, and their practical applications in domains such as daily life and medicine. I am actively seeking research collaboration opportunities in both academia and industry.
+**Research Interests:** My research focuses on multimodal agentic reasoning, vision-language-action models, and their practical applications in domains such as daily life and medicine. I am actively seeking research collaboration opportunities in both academia and industry.
 
-Contact me through: barryzbr12@gmail.com or barry.zhang@connect.hkust-gz.edu.cn. Find my [CV](./assets/CV_Bairui_Zhang.pdf) and [Transcript](./assets/Transcript_WES 4.0scale.pdf) here.
+📧 Contact: [barryzbr12@gmail.com](mailto:barryzbr12@gmail.com) · [barry.zhang@connect.hkust-gz.edu.cn](mailto:barry.zhang@connect.hkust-gz.edu.cn)
 
-<!--
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
--->
+📄 [Curriculum Vitae](./assets/CV_Bairui_Zhang.pdf) · [Transcript](./assets/Transcript_WES 4.0scale.pdf)
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 Happy to be selected for the fully funded Singtel Exposure Program. See you in Singapore!
-- *2025.02*: &nbsp;🎉🎉 A Paper Have Submitted to ARR, Are Medical LLMs Ready? A Critical Study Using Checklist.
-- *2024.12*: &nbsp;🎉🎉 Happy to Receive RPG Studentship from HKUST with ¥120,000 per year.
-- *2024.10*: &nbsp;🎉🎉 A Paper Have Submitted to NAACL, Augmenting Categorical Emotion Detection with Visual Emotion Priors.
-- *2024.07*: &nbsp;🎉🎉 A Paper Have Accepted by Sensors, AI in Pancreatic Cancer Analysis: A Review.
+- *2025.12*: &nbsp;🎉 Selected for the fully funded **Singtel Exposure Program**. See you in Singapore!
+- *2025.02*: &nbsp;📝 Paper submitted to ARR — *Are Medical LLMs Ready? A Critical Study Using Checklist*.
+- *2024.12*: &nbsp;🏆 Received **RPG Studentship** from HKUST (¥120,000/year).
+- *2024.10*: &nbsp;📝 Paper submitted to NAACL — *Augmenting Categorical Emotion Detection with Visual Emotion Priors*.
+- *2024.07*: &nbsp;🎉 Paper accepted by **Sensors** (SCI JCR Q2) — *AI in Pancreatic Cancer Analysis: A Review*.
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> arXiv </div><img src='images/ARR- February.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/ARR- February.png' alt="LLM Outpatient Referral" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Large Language Models for Outpatient Referral: Problem Definition, Benchmarking and Challenges](https://arxiv.org/pdf/2503.08292)
 
-Xiaoxiao Liu, Qingying Xiao, Junying Chen, Xiangyi Feng, Xiangbo Wu, **Bairui Zhang**, Xiang Wan, Jian Chang, Guangjun Yu, Yan Hu, Benyou Wang.
+Xiaoxiao Liu, Qingying Xiao, Junying Chen, Xiangyi Feng, Xiangbo Wu, **Bairui Zhang**, Xiang Wan, Jian Chang, Guangjun Yu, Yan Hu, Benyou Wang
 
-- This study investigates the application of large language models (LLMs) in outpatient referral tasks, proposing a comprehensive evaluation framework that includes static classification and dynamic dialogue tasks. The authors introduce the IOR-Bench dataset and find that while LLMs show limited advantages over traditional models in static tasks, they demonstrate potential in dynamic interactions by asking effective questions. The work highlights the need for further improvements in LLMs' ability to integrate diverse medical information and refine recommendations through iterative dialogues.
+- Investigates LLMs in outpatient referral tasks with a comprehensive evaluation framework covering static classification and dynamic dialogue.
+- Introduces the **IOR-Bench** dataset; finds LLMs show potential in dynamic interactions by asking effective questions.
+- Highlights the need for improved integration of diverse medical information through iterative dialogues.
 </div>
 </div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Under Polish </div><img src='images/Multimodal Emotional Recognition.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Multimodal Emotional Recognition.png' alt="VISPOR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Augmenting Categorical Emotion Detection with Visual Emotion Priors](./assets/NAACL.pdf)
 
 Changrong Min, **Bairui Zhang**, Hongfei Lin, Ximing Li
 
-
-- This task aims to identify emotions in text. While Prompt Tuning (PT) has been used, current detectors struggle with designing efficient prompts. We propose VISPOR (Visual Emotion Prefix-guided Emotion Detector), which leverages visual information to enhance emotion detection. By aligning emotional text descriptions with images and using visually enriched embeddings as prefixes, VISPOR captures more nuanced emotion features. Experiments show VISPOR outperforms existing methods on three benchmarks.
+- Proposes **VISPOR** (Visual Emotion Prefix-guided Emotion Detector), leveraging visual information to enhance text emotion detection.
+- Aligns emotional text descriptions with images and uses visually enriched embeddings as prefixes to capture nuanced emotion features.
+- Outperforms existing methods on three benchmarks.
 </div>
 </div>
 
 
-<!--
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors SCI JCR Q2</div><img src='images/sensors.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors · SCI Q2</div><img src='images/sensors.png' alt="AI Pancreatic Cancer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Artificial Intelligence in Pancreatic Image Analysis: A Review](https://doi.org/10.3390/s24144749)
 
 Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 
-- This work explores the application of AI in pancreatic cancer diagnosis, focusing on segmentation, classification, object detection, and prognosis prediction using CT, MRI, EUS, PET, and pathological images. It aims to improve diagnostic and treatment accuracy by integrating various imaging techniques, and discusses current trends and future developments in AI-driven pancreatic cancer diagnosis.
+- Comprehensive review of AI in pancreatic cancer diagnosis: segmentation, classification, object detection, and prognosis prediction.
+- Covers CT, MRI, EUS, PET, and pathological imaging modalities.
+- Discusses current trends and future directions in AI-driven pancreatic cancer diagnosis.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISAIMS</div><img src='images/ISAIMS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISAIMS 2024</div><img src='images/ISAIMS.png' alt="Sepsis Prediction" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Factors that increase the mortality of sepsis and personalized medication for patients with sepsis](https://dl.acm.org/doi/abs/10.1145/3644116.3644330)
+[Factors that Increase the Mortality of Sepsis and Personalized Medication for Patients with Sepsis](https://dl.acm.org/doi/abs/10.1145/3644116.3644330)
 
 **Bairui Zhang**, Qianlong Cai, Junyang Ding, Kaitao Yuan
 
-- This work develops a machine learning model to predict mortality and recommend medications for sepsis patients. Extreme Gradient Boosting achieved the best accuracy for both mortality (0.802) and drug prediction (0.867). Key factors affecting mortality include age and respiratory rate. Heparin, Acetaminophen, and Metoprolol Tartrate were effective, while Hydromorphone was linked to higher mortality.
+- Develops ML models to predict mortality and recommend medications for sepsis patients.
+- XGBoost achieves best accuracy for mortality prediction (0.802) and drug recommendation (0.867).
+- Identifies key mortality factors (age, respiratory rate) and effective medications (Heparin, Acetaminophen, Metoprolol Tartrate).
 </div>
 </div>
 
-<!--
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
--->
 
 # 🎖 Honors and Awards
-- *2025-2027*, Postgraduate Studentship award (¥240,000), The Hong Kong University of Science and Technology (Guangzhou).
-- *2024.02*, Meritorious Winner (Top 8% in the world), Mathmatical Contests in Modeling ([MCM/ICM](https://www.comap.com/)). See [Paper](./assets/SubmittedICM.pdf) Here.
-- *2023.11*, First Prize (Top 5% in the world), Asia and Pacific Mathematical Contest in Modeling ([APMCM](http://www.apmcm.org/index?language=cn)). See [Paper](./assets/apmcm.pdf) Here.
-- *2025.04*, Distinguished Undergraduate, Northeastern University.
-- *2025.04*, Innovation and Entrepreneurship Scholarship (¥1,000), Northeastern University
-- *2024.10*, First Prize Scholarship (1/113), Northeastern University.
-- *2021-2024*, Merit Student (Each Academic Year), Northeastern University.
-- *2021-2023*, University Scholarship (Four Consecutive Semester), Northeastern University. 
+- *2025–2027* · **Postgraduate Studentship** (¥240,000), HKUST(GZ)
+- *2024.02* · **Meritorious Winner** (Top 8% worldwide), Mathematical Contest in Modeling ([MCM/ICM](https://www.comap.com/)) · [Paper](./assets/SubmittedICM.pdf)
+- *2023.11* · **First Prize** (Top 5% worldwide), Asia and Pacific Mathematical Contest in Modeling ([APMCM](http://www.apmcm.org/index?language=cn)) · [Paper](./assets/apmcm.pdf)
+- *2025.04* · **Distinguished Undergraduate**, Northeastern University
+- *2025.04* · **Innovation and Entrepreneurship Scholarship** (¥1,000), NEU
+- *2024.10* · **First Prize Scholarship** (Rank 1/113), NEU
+- *2021–2024* · **Merit Student** (Each Academic Year), NEU
+- *2021–2023* · **University Scholarship** (Four Consecutive Semesters), NEU
 
 # 📖 Educations
-- *2025.09 - Present*, M.Phil., The Hong Kong University of Science and Technology, Guangzhou, Data Science and Analytics (GPA:4.13/4.3).
-- *2021.09 - 2025.06*, B.Eng., Northeastern University, Computer Science (GPA:3.99/4.0 Rank 3/116). 
+- *2025.09 – Present* · **M.Phil.**, The Hong Kong University of Science and Technology, Guangzhou — Data Science and Analytics (GPA: 4.13/4.3)
+- *2021.09 – 2025.06* · **B.Eng.**, Northeastern University — Computer Science (GPA: 3.99/4.0, Rank 3/116)
 
 # 💬 TA and Workshop
-- *2023.09-2023.12*, TA for Software Architecture & Engineering Economics, Northeastern University.
+- *2023.09 – 2023.12* · TA for *Software Architecture & Engineering Economics*, Northeastern University
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Summer Camp</div><img src='images/MIT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Summer Camp</div><img src='images/MIT.png' alt="MIT Summer Camp" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🌞*2023.07 - 2023.08*, Summer Research Camp Advised by MIT Professor [Manolis Kellis](https://web.mit.edu/manoli/).
+🌞 *2023.07 – 2023.08* · **Summer Research Camp** advised by MIT Professor [Manolis Kellis](https://web.mit.edu/manoli/)
 
 **Team Leader**
-- This work develops a model to predict mortality and recommend medications for sepsis patients. Barry played a key role, contributing to data extraction, feature processing, coding, and model implementation. His expertise in data mining, statistical analysis, and project management was highlighted, earning him high evaluation scores. He was recognized as a collaborative team member and ranked #1 out of 4 in his team, achieving a score of 98/100 and an A grade, see the [Evaluation](./assets/Evaluation.pdf) from Prof. Kellis Here.
+- Led a team developing models for sepsis mortality prediction and medication recommendation.
+- Contributed to data extraction, feature processing, coding, and model implementation.
+- Ranked **#1 out of 4** team members with a score of 98/100 (Grade A). See [Evaluation](./assets/Evaluation.pdf) from Prof. Kellis.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Symposium</div><img src='images/Future Science Prize Week.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Symposium</div><img src='images/Future Science Prize Week.png' alt="Future Science Prize Week" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🇭🇰*2024.11.01 - 2024.11.03*, Future Science Prize Week.
+🇭🇰 *2024.11.01 – 2024.11.03* · **Future Science Prize Week**
 
 **Invited Participant**
-- The Future Science Prize Week is a prestigious gathering of leading scientists, researchers, and academics from around the world to discuss cutting-edge advancements in science and technology. This event features keynote speeches from influential figures such as Euan Ashley from Stanford University focusing on Medical AI and [Ma Yi](https://people.eecs.berkeley.edu/~yima/) from the University of Hong Kong talking about the nature of intelligence and I am so honnor to take a photo with him. The symposium is chaired by notable figures like Ren Yonghua, a professor at the HKU and an academician of the Chinese Academy of Sciences, and Xie Yuan, a professor at HKUST. These esteemed leaders guide the event's focus on topics such as AI in medicine, making computers smarter, energy-efficient AI systems, and understanding intelligence. The Future Science Prize Week serves as a platform for fostering innovation, collaboration, and the exchange of ideas that shape the future of science.
-
-
+- Attended keynote speeches from leading scientists including Euan Ashley (Stanford, Medical AI) and [Ma Yi](https://people.eecs.berkeley.edu/~yima/) (HKU, Nature of Intelligence).
+- Symposium chaired by Prof. Ren Yonghua (HKU, CAS Academician) and Prof. Xie Yuan (HKUST), covering AI in medicine, energy-efficient AI systems, and understanding intelligence.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Colloquium</div><img src='images/Photo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Colloquium</div><img src='images/Photo.jpg' alt="Richard Sutton Colloquium" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-🤩*2024.12.26*, Exploring the Importance of Sensorimotor Experience in Artificial Intelligence
+
+🤩 *2024.12.26* · **Exploring the Importance of Sensorimotor Experience in AI**
 
 **Colloquium Participant**
-- Today, I attended a fascinating seminar titled "The Increasing Role of Sensorimotor Experience in Artificial Intelligence," presented by Professor [Richard S. Sutton](http://www.incompleteideas.net/). Professor Sutton elaborated on the four-step developmental path of AI, highlighting the significance of sensorimotor experience and the central role of reward signals in reinforcement learning. He also emphasized the future potential of experiential knowledge and predictive modeling in advancing AI. This insightful talk deepened my understanding of how sensorimotor experience drives AI research and inspired me to explore its future applications.
+- Attended seminar by Professor [Richard S. Sutton](http://www.incompleteideas.net/) on the four-step developmental path of AI.
+- Key topics: significance of sensorimotor experience, reward signals in RL, and future potential of experiential knowledge and predictive modeling.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sandbox</div><img src='images/Singtel.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sandbox</div><img src='images/Singtel.jpg' alt="Singtel Program" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-🇸🇬*2025.12.07 - 2025.12.14*, Singtel, Singapore — Cloud & AI Innovation Immersion
+
+🇸🇬 *2025.12.07 – 2025.12.14* · **[Singtel](https://www.singtel.com/) Cloud & AI Innovation Immersion**, Singapore
 
 **Selected Participant**
-- I participated in an intensive 8-day immersion program at [Singtel](https://www.singtel.com/), one of Asia’s leading technology and communications groups. The program offered hands-on exposure to Singtel’s cloud and AI infrastructure, combined with industrial and academic visits across Singapore.
-Through close interaction with Singtel mentors and leadership, I explored how academic research can be translated into real-world digital innovation. This experience deepened my understanding of industry–academia collaboration, cloud-enabled AI systems, and the role of technology in shaping future industries, while also broadening my global perspective on digital transformation.
+- Intensive 8-day immersion at one of Asia's leading technology and communications groups.
+- Hands-on exposure to cloud and AI infrastructure, combined with industrial and academic visits across Singapore.
+- Explored industry–academia collaboration and the role of technology in shaping future industries.
 </div>
 </div>
 
 # 💻 Internships
-- *2024.07 - 2025.05*, The Chinese University of Hong Kong, Shenzhen, Research Assistant, China.
-- *2023.07 - 2023.09*, Chipcis (Shanghai) Information Tech Co., Ltd., Software Engineer, China.
-- *2022.08 - 2022.11*, Beijing Codnoy Technology Co., Ltd., Software Engineer, China.
+- *2024.07 – 2025.05* · **Research Assistant**, The Chinese University of Hong Kong, Shenzhen
+- *2023.07 – 2023.09* · **Software Engineer**, Chipcis (Shanghai) Information Tech Co., Ltd.
+- *2022.08 – 2022.11* · **Software Engineer**, Beijing Codnoy Technology Co., Ltd.
 
 
 # 📝 Projects
-
-- *2024.05 - 2024.06*, Cross-Attentive Adversarial Autoencoder Based on Transformer for Multi-Modal Emotion Recognition, [Deep Learning Course Project](./assets/DeepLearning.pdf)
-
-<!--
-# 💭 Musings
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/fengjing.jpg' alt="Musings" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-🧭 *On Clarity, Power, and Returning to the Self*
-
-I believe everything happens **for my benefit**—not by accident, but by the best arrangement of the universe.  
-
-Clarity is everything.  
-🧠 Lack of clarity is the root of procrastination.  
-📅 Planning creates clarity, and clarity creates action.
-
-Fear and inner friction come from uncertainty about the future.  
-
-No matter what challenges arise, I remind myself:
-> "I chose this path. I know what I lack. I’m here to learn. I will not escape. I will solve it. If not today, I’m still gaining experience."
-
-I do what I can, catch what I can, and keep **optimizing the gradient of my life**.  
-
-I am grateful for all that the world has gifted me. I choose to be kind, to be compassionate, to be someone lovable.  I cleanse my energy field and walk away from toxicity and laziness.  
-**Let go. Be free. Be me.**
-
-</div></div>
--->
-
-
+- *2024.05 – 2024.06* · Cross-Attentive Adversarial Autoencoder Based on Transformer for Multi-Modal Emotion Recognition · [Report](./assets/DeepLearning.pdf)
