@@ -1,9 +1,5 @@
 /* ==========================================================================
-   SIDEBAR
-   ========================================================================== */
-
-/*
-   Default
+   SIDEBAR — Claude-style warm profile card
    ========================================================================== */
 
 .sidebar {
@@ -23,7 +19,6 @@
       opacity: 1;
     }
   }
-
 
   @include breakpoint($x-large) {
     padding-right: 0;
@@ -66,7 +61,7 @@
 }
 
 /*
-   Author profile and links
+   Author profile
    ========================================================================== */
 .profile_box{
   @include breakpoint($large) {
@@ -92,14 +87,14 @@
   }
 
   img {
-    max-width: 180px;
+    max-width: 170px;
     min-width: 80px;
     border-radius: 50%;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border: 3px solid $warm-white;
+    box-shadow: 0 4px 20px rgba(45, 36, 24, 0.1);
 
     @include breakpoint($large) {
-      padding: 4px;
-      border: 2px solid $border-color;
+      padding: 0;
     }
   }
 }
@@ -109,7 +104,7 @@
   vertical-align: top;
   padding-left: 12px;
   min-width: 120px;
-  line-height: 1.2;
+  line-height: 1.3;
 
   @include breakpoint($large) {
     display: block;
@@ -124,10 +119,11 @@
   margin: 0;
   font-weight: 700;
   color: $darker-gray;
+  letter-spacing: -0.02em;
 
   @include breakpoint($large) {
-    margin-top: 12px;
-    margin-bottom: 8px;
+    margin-top: 14px;
+    margin-bottom: 6px;
   }
 }
 
@@ -142,12 +138,13 @@
 .author__bio {
   margin: 0;
   color: $gray;
+  font-size: $type-size-7;
   font-style: italic;
-  font-size: $type-size-6;
+  font-family: $caption-font-family;
 
   @include breakpoint($large) {
-    margin-top: 8px;
-    margin-bottom: 16px;
+    margin-top: 6px;
+    margin-bottom: 18px;
   }
 }
 
@@ -186,13 +183,13 @@
   position: absolute;
   right: 0;
   margin-top: 15px;
-  padding: 10px;
+  padding: 12px;
   list-style-type: none;
-  border: 1px solid $border-color;
+  border: 1px solid $sand;
   border-radius: $border-radius;
-  background: #fff;
+  background: $cream;
   z-index: -1;
-  box-shadow: 0 4px 12px rgba(#000, 0.1);
+  box-shadow: 0 8px 24px rgba(45, 36, 24, 0.1);
   cursor: default;
 
   @include breakpoint($large) {
@@ -214,7 +211,7 @@
     width: 0;
     border-style: solid;
     border-width: 0 10px 10px;
-    border-color: $border-color transparent;
+    border-color: $sand transparent;
     z-index: 0;
 
     @include breakpoint($large) {
@@ -231,7 +228,7 @@
     width: 0;
     border-style: solid;
     border-width: 0 10px 10px;
-    border-color: #fff transparent;
+    border-color: $cream transparent;
     z-index: 1;
 
     @include breakpoint($large) {
@@ -246,32 +243,34 @@
   a {
     display: block;
     margin-bottom: 4px;
-    padding-right: 5px;
-    padding-top: 3px;
-    padding-bottom: 3px;
-    color: inherit;
+    padding: 4px 6px;
+    color: $dark-gray;
     font-size: $type-size-6;
     text-decoration: none;
-    transition: color 0.2s ease;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+    border-bottom: none;
 
     &:hover {
       color: $primary-color;
-      text-decoration: none;
+      background-color: $warm-white;
+      border-bottom: none;
     }
   }
 }
 
 .author__urls_sm{
   padding: .25em;
-  font-size: 1.5em;
+  font-size: 1.4em;
   display: block;
   a {
     color: $gray;
     text-decoration: none;
+    border-bottom: none;
     transition: color 0.2s ease;
     &:hover {
       color: $primary-color;
-      text-decoration: none;
+      border-bottom: none;
     }
   }
   @include breakpoint($large) {

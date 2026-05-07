@@ -10,10 +10,10 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
-<!-- Google Fonts -->
+<!-- Google Fonts — warm academic feel -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Merriweather:ital,wght@0,400;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,500;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="assets/css/main.css">
@@ -22,3 +22,19 @@
 <head>
   <base target="_blank">
 </head>
+
+<style>
+  /* Override font-family with loaded Google Fonts */
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+  .author__bio, blockquote, figcaption {
+    font-family: 'Lora', Georgia, serif;
+  }
+  tt, code, kbd, samp, pre {
+    font-family: 'JetBrains Mono', 'SF Mono', Monaco, monospace;
+  }
+</style>
