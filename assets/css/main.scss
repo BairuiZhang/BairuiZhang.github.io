@@ -66,13 +66,13 @@
         img {
             max-width: 400px;
             border-radius: $border-radius;
-            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
             object-fit: cover;
             transition: transform 0.3s ease, box-shadow 0.3s ease;
 
             &:hover {
                 transform: translateY(-2px);
-                box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+                box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
             }
         }
     }
@@ -87,13 +87,14 @@
             color: $darker-gray;
 
             &:hover {
+                color: $accent-blue;
                 text-decoration: underline;
             }
         }
 
         p {
             font-size: $type-size-6;
-            line-height: 1.6;
+            line-height: 1.65;
             color: $gray;
         }
     }
@@ -130,7 +131,7 @@ h1:before, .anchor:before {
 }
 
 /* ==========================================================================
-   BADGE - Publication Venue Tags
+   BADGE - Publication Venue Tags (Blue accent)
    ========================================================================== */
 
 .badge {
@@ -139,12 +140,12 @@ h1:before, .anchor:before {
     margin-top: 0.5em;
     margin-left: -0.5em;
     color: white;
-    background: $darker-gray;
+    background: $accent-blue;
     font-size: 0.75em;
     font-weight: 600;
     letter-spacing: 0.02em;
     border-radius: 0 $border-radius $border-radius 0;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 2px 6px rgba(26, 86, 219, 0.25);
 }
 
 /* ==========================================================================
@@ -154,22 +155,6 @@ h1:before, .anchor:before {
 .page__content ul li {
     position: relative;
     padding-left: 0;
-}
-
-/* ==========================================================================
-   RESEARCH INTERESTS TAGS
-   ========================================================================== */
-
-.research-tag {
-    display: inline-block;
-    padding: 0.25em 0.75em;
-    margin: 0.2em 0.3em;
-    background-color: rgba(0, 0, 0, 0.04);
-    color: $darker-gray;
-    border-radius: 20px;
-    font-size: $type-size-6;
-    font-weight: 500;
-    border: 1px solid $border-color;
 }
 
 /* ==========================================================================

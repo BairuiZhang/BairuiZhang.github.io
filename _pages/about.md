@@ -162,5 +162,5 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 - *2024.07 – 2025.05* · **Research Assistant**, [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/)
 
 
-# 📝 Projects
-- *2024.05 – 2024.06* · Cross-Attentive Adversarial Autoencoder Based on Transformer for Multi-Modal Emotion Recognition · [Report](./assets/DeepLearning.pdf)
+<!-- # 📝 Projects
+- *2024.05 – 2024.06* · Cross-Attentive Adversarial Autoencoder Based on Transformer for Multi-Modal Emotion Recognition · [Report](./assets/DeepLearning.pdf) -->

@@ -14,7 +14,6 @@
   border-bottom: 1px solid $border-color;
   animation: intro 0.3s both;
   animation-delay: 0.05s;
-  transition: box-shadow 0.3s ease;
 
   &__inner-wrap {
     @include container;
@@ -52,6 +51,6 @@ body {
 .masthead__menu-home-item {
   a {
     font-weight: 700 !important;
-    color: #000000 !important;
+    color: $accent-blue !important;
   }
 }

@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Variables — Clean black & white
+   Variables — Clean with subtle blue accents
    ========================================================================== */
 
 /*
@@ -43,7 +43,7 @@ $type-size-7                : 0.875em;
 $type-size-8                : 1.25em;
 
 /*
-   Colors — Black & White
+   Colors — Neutral base with blue accents
    ========================================================================== */
 
 $gray                       : #6b7280;
@@ -59,11 +59,13 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : #e5e7eb;
 
-$primary-color              : #111827;
+$accent-blue                : #1a56db;
+
+$primary-color              : $dark-gray;
 $success-color              : #059669;
 $warning-color              : #d97706;
 $danger-color               : #dc2626;
-$info-color                 : #111827;
+$info-color                 : $accent-blue;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -88,12 +90,12 @@ $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
 
-/* links */
-$link-color                 : $darker-gray;
-$link-color-hover           : #000000;
-$link-color-visited         : mix(#fff, $darker-gray, 15%);
+/* links — muted gray-blue, not too loud */
+$link-color                 : #4b6584;
+$link-color-hover           : #2d3e50;
+$link-color-visited         : #5a7a9a;
 $masthead-link-color        : $dark-gray;
-$masthead-link-color-hover  : #000000;
+$masthead-link-color-hover  : $darker-gray;
 
 
 /*
