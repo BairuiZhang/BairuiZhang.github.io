@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Variables
+   Variables — Clean black & white
    ========================================================================== */
 
 /*
@@ -9,11 +9,11 @@
 $doc-font-size              : 18;
 
 /* paragraph indention */
-$paragraph-indent           : false; // true, false (default)
+$paragraph-indent           : false;
 $indent-var                 : 0.5em;
 
 /* system typefaces */
-$serif                      : "Merriweather", Georgia, Times, serif;
+$serif                      : Georgia, Times, serif;
 $sans-serif                 : "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 $monospace                  : "JetBrains Mono", Monaco, Consolas, "Lucida Console", monospace;
 
@@ -33,37 +33,37 @@ $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
 /* type scale */
-$type-size-1                : 2.441em;  // ~39px
-$type-size-2                : 1.953em;  // ~31px
-$type-size-3                : 1.563em;  // ~25px
-$type-size-4                : 1.35em;   // ~22px
-$type-size-5                : 1.1em;    // ~18px
-$type-size-6                : 0.95em;   // ~15px
-$type-size-7                : 0.875em;  // ~14px
-$type-size-8                : 1.25em;   // ~20px
+$type-size-1                : 2.441em;
+$type-size-2                : 1.953em;
+$type-size-3                : 1.563em;
+$type-size-4                : 1.35em;
+$type-size-5                : 1.1em;
+$type-size-6                : 0.95em;
+$type-size-7                : 0.875em;
+$type-size-8                : 1.25em;
 
 /*
-   Colors
+   Colors — Black & White
    ========================================================================== */
 
 $gray                       : #6b7280;
-$dark-gray                  : #374151;
-$darker-gray                : #1f2937;
+$dark-gray                  : #1f2937;
+$darker-gray                : #111827;
 $light-gray                 : #d1d5db;
-$lighter-gray               : #f3f4f6;
+$lighter-gray               : #f9fafb;
 
 $body-color                 : #ffffff;
 $background-color           : #ffffff;
-$code-background-color      : #f8fafc;
+$code-background-color      : #f9fafb;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : #e5e7eb;
 
-$primary-color              : #1e40af;
+$primary-color              : #111827;
 $success-color              : #059669;
 $warning-color              : #d97706;
 $danger-color               : #dc2626;
-$info-color                 : #1e40af;
+$info-color                 : #111827;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -89,11 +89,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 15%);
+$link-color                 : $darker-gray;
+$link-color-hover           : #000000;
+$link-color-visited         : mix(#fff, $darker-gray, 15%);
 $masthead-link-color        : $dark-gray;
-$masthead-link-color-hover  : $primary-color;
+$masthead-link-color-hover  : #000000;
 
 
 /*
@@ -133,7 +133,7 @@ $susy: (
    ========================================================================== */
 
 $border-radius              : 8px;
-$box-shadow                 : 0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06);
+$box-shadow                 : 0 1px 3px rgba(0, 0, 0, 0.08);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;

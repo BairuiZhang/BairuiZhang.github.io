@@ -55,7 +55,7 @@
     transition: background-color 0.2s ease;
 
     &:hover {
-        background-color: rgba($primary-color, 0.02);
+        background-color: $lighter-gray;
     }
 
     .paper-box-image {
@@ -84,7 +84,7 @@
         a {
             font-weight: 600;
             text-decoration: none;
-            color: $primary-color;
+            color: $darker-gray;
 
             &:hover {
                 text-decoration: underline;
@@ -139,12 +139,12 @@ h1:before, .anchor:before {
     margin-top: 0.5em;
     margin-left: -0.5em;
     color: white;
-    background: linear-gradient(135deg, $primary-color, mix(#000, $primary-color, 10%));
+    background: $darker-gray;
     font-size: 0.75em;
     font-weight: 600;
     letter-spacing: 0.02em;
     border-radius: 0 $border-radius $border-radius 0;
-    box-shadow: 0 2px 4px rgba($primary-color, 0.3);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
 }
 
 /* ==========================================================================
@@ -164,12 +164,12 @@ h1:before, .anchor:before {
     display: inline-block;
     padding: 0.25em 0.75em;
     margin: 0.2em 0.3em;
-    background-color: rgba($primary-color, 0.08);
-    color: $primary-color;
+    background-color: rgba(0, 0, 0, 0.04);
+    color: $darker-gray;
     border-radius: 20px;
     font-size: $type-size-6;
     font-weight: 500;
-    border: 1px solid rgba($primary-color, 0.15);
+    border: 1px solid $border-color;
 }
 
 /* ==========================================================================
@@ -184,7 +184,7 @@ h1:before, .anchor:before {
         font-size: $type-size-3;
         font-weight: 700;
         color: $darker-gray;
-        border-bottom: 2px solid $primary-color;
+        border-bottom: 1px solid $border-color;
         padding-bottom: 0.4em;
         margin-top: 1.5em;
     }
