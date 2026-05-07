@@ -159,7 +159,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 
 # 💻 Internships
 - *2026.04 – Present* · **Data Scientist (Agent)**, [Ericsson](https://www.ericsson.com/en)
-- *2024.07 – 2025.05* · **Research Assistant**, The Chinese University of Hong Kong, Shenzhen
+- *2024.07 – 2025.05* · **Research Assistant**, [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/)
 
 
 # 📝 Projects
