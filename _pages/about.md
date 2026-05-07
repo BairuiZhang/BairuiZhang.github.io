@@ -26,6 +26,7 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 📄 [Curriculum Vitae](./assets/CV_Bairui_Zhang.pdf) · [Transcript](./assets/Transcript_WES 4.0scale.pdf)
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 Happy to be admitted as **Data Scientist Intern** (Agent) at [Ericsson](https://www.ericsson.com/en)!
 - *2025.12*: &nbsp;🎉 Selected for the fully funded **Singtel Exposure Program**. See you in Singapore!
 - *2025.02*: &nbsp;📝 Paper submitted to ARR — *Are Medical LLMs Ready? A Critical Study Using Checklist*.
 - *2024.12*: &nbsp;🏆 Received **RPG Studentship** from HKUST (¥120,000/year).
@@ -50,6 +51,7 @@ Xiaoxiao Liu, Qingying Xiao, Junying Chen, Xiangyi Feng, Xiangbo Wu, **Bairui Zh
 
 
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Multimodal Emotional Recognition.png' alt="VISPOR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,6 +64,7 @@ Changrong Min, **Bairui Zhang**, Hongfei Lin, Ximing Li
 - Outperforms existing methods on three benchmarks.
 </div>
 </div>
+-->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors · SCI Q2</div><img src='images/sensors.png' alt="AI Pancreatic Cancer" width="100%"></div></div>
@@ -155,9 +158,8 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 </div>
 
 # 💻 Internships
+- *2026.04 – Present* · **Data Scientist (Agent)**, [Ericsson](https://www.ericsson.com/en)
 - *2024.07 – 2025.05* · **Research Assistant**, The Chinese University of Hong Kong, Shenzhen
-- *2023.07 – 2023.09* · **Software Engineer**, Chipcis (Shanghai) Information Tech Co., Ltd.
-- *2022.08 – 2022.11* · **Software Engineer**, Beijing Codnoy Technology Co., Ltd.
 
 
 # 📝 Projects
