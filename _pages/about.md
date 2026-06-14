@@ -34,6 +34,7 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 - *2024.07*: &nbsp;🎉 Paper accepted by **Sensors** (SCI JCR Q2) — *AI in Pancreatic Cancer Analysis: A Review*.
 
 
+<!--
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/ARR- February.png' alt="LLM Outpatient Referral" width="100%"></div></div>
@@ -51,7 +52,6 @@ Xiaoxiao Liu, Qingying Xiao, Junying Chen, Xiangyi Feng, Xiangbo Wu, **Bairui Zh
 
 
 
-<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Multimodal Emotional Recognition.png' alt="VISPOR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,7 +64,6 @@ Changrong Min, **Bairui Zhang**, Hongfei Lin, Ximing Li
 - Outperforms existing methods on three benchmarks.
 </div>
 </div>
--->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors · SCI Q2</div><img src='images/sensors.png' alt="AI Pancreatic Cancer" width="100%"></div></div>
@@ -92,6 +91,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 - Identifies key mortality factors (age, respiratory rate) and effective medications (Heparin, Acetaminophen, Metoprolol Tartrate).
 </div>
 </div>
+-->
 
 
 # 🎖 Honors and Awards
