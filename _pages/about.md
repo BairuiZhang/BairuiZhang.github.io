@@ -26,6 +26,7 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 📄 [Curriculum Vitae](./assets/CV_Bairui_Zhang.pdf) · [Transcript](./assets/Transcript_WES 4.0scale.pdf)
 
 # 🔥 News
+- *2026.05*: &nbsp;📝 Two first-author papers on Agentic Reasoning submitted to **EMNLP 2026**.
 - *2026.04*: &nbsp;🎉 Happy to be admitted as **Data Scientist Intern** (Agent) at [Ericsson](https://www.ericsson.com/en)!
 - *2025.12*: &nbsp;🎉 Selected for the fully funded **Singtel Exposure Program**. See you in Singapore!
 - *2025.02*: &nbsp;📝 Paper submitted to ARR — *Are Medical LLMs Ready? A Critical Study Using Checklist*.
