@@ -26,6 +26,7 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 📄 [Curriculum Vitae](./assets/CV_Bairui_Zhang.pdf) · [Transcript](./assets/Transcript_WES 4.0scale.pdf)
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 Joined [Sangfor Technologies](https://www.sangfor.com/) as an **X-STAR Top Talent Program Intern**, mentored by [Dr. Zichang Tan](https://scholar.google.com.hk/citations?hl=zh-CN&user=s29CDY8AAAAJ&view_op=list_works&sortby=pubdate).
 - *2026.05*: &nbsp;📝 Two first-author papers on Agentic Reasoning submitted to **EMNLP 2026**.
 - *2026.04*: &nbsp;🎉 Happy to be admitted as **Data Scientist Intern** (Agent) at [Ericsson](https://www.ericsson.com/en)!
 - *2025.12*: &nbsp;🎉 Selected for the fully funded **Singtel Exposure Program**. See you in Singapore!
@@ -159,6 +160,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 </div>
 
 # 💻 Internships
+- *2026.08 – Present* · **X-STAR Top Talent Program Intern**, [Sangfor Technologies](https://www.sangfor.com/) · Mentor: [Dr. Zichang Tan](https://scholar.google.com.hk/citations?hl=zh-CN&user=s29CDY8AAAAJ&view_op=list_works&sortby=pubdate)
 - *2026.04 – Present* · **Data Scientist (Agent)**, [Ericsson](https://www.ericsson.com/en)
 - *2024.07 – 2025.05* · **Research Assistant**, [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/en)
 
