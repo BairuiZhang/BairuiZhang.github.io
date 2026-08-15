@@ -160,7 +160,7 @@ Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
 </div>
 
 # 💻 Internships
-- *2026.08 – Present* · **Research Intern**, [Sangfor Research Institute](https://www.sangfor.com/about-us/company-profile) (**X-STAR Top Talent Program**) · Mentor: [Dr. Zichang Tan](https://scholar.google.com.hk/citations?hl=zh-CN&user=s29CDY8AAAAJ&view_op=list_works&sortby=pubdate)
+- *2026.08 – Present* · **Research Intern**, [Sangfor Research Institute](https://www.sangfor.com/about-us/company-profile) (**X-STAR Top Talent Program**)
 - *2026.04 – Present* · **Data Scientist (Agent)**, [Ericsson](https://www.ericsson.com/en)
 - *2024.07 – 2025.05* · **Research Assistant**, [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/en)
 
