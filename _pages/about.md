@@ -26,14 +26,13 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 📄 [Curriculum Vitae](./assets/CV_Bairui_Zhang.pdf) · [Transcript](./assets/Transcript_WES 4.0scale.pdf)
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉 Joined [Sangfor Technologies](https://www.sangfor.com/) as an **X-STAR Top Talent Program Intern**, mentored by [Dr. Zichang Tan](https://scholar.google.com.hk/citations?hl=zh-CN&user=s29CDY8AAAAJ&view_op=list_works&sortby=pubdate).
+- *2026.08*: &nbsp;🎉 Joined [Sangfor Technologies](https://www.sangfor.com/) as an **X-STAR Top Talent Program Intern**, guided by [Dr. Zichang Tan](https://scholar.google.com.hk/citations?hl=zh-CN&user=s29CDY8AAAAJ&view_op=list_works&sortby=pubdate).
 - *2026.07*: &nbsp;📝 Two papers submitted to **AAAI**.
 - *2026.05*: &nbsp;📝 Two first-author papers on Agentic Reasoning submitted to **EMNLP 2026**.
 - *2026.04*: &nbsp;🎉 Happy to be admitted as **Data Scientist Intern** (Agent) at [Ericsson](https://www.ericsson.com/en)!
 - *2025.12*: &nbsp;🎉 Selected for the fully funded **Singtel Exposure Program**. See you in Singapore!
 - *2025.02*: &nbsp;📝 Paper submitted to ARR — *Are Medical LLMs Ready? A Critical Study Using Checklist*.
 - *2024.12*: &nbsp;🏆 Received **RPG Studentship** from HKUST (¥120,000/year).
-- *2024.10*: &nbsp;📝 Paper submitted to NAACL — *Augmenting Categorical Emotion Detection with Visual Emotion Priors*.
 - *2024.07*: &nbsp;🎉 Paper accepted by **Sensors** (SCI JCR Q2) — *AI in Pancreatic Cancer Analysis: A Review*.
 
 
