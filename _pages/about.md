@@ -27,6 +27,7 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 
 # 🔥 News
 - *2026.08*: &nbsp;🎉 Joined [Sangfor Technologies](https://www.sangfor.com/) as an **X-STAR Top Talent Program Intern**, mentored by [Dr. Zichang Tan](https://scholar.google.com.hk/citations?hl=zh-CN&user=s29CDY8AAAAJ&view_op=list_works&sortby=pubdate).
+- *2026.07*: &nbsp;📝 Two papers submitted to **AAAI**.
 - *2026.05*: &nbsp;📝 Two first-author papers on Agentic Reasoning submitted to **EMNLP 2026**.
 - *2026.04*: &nbsp;🎉 Happy to be admitted as **Data Scientist Intern** (Agent) at [Ericsson](https://www.ericsson.com/en)!
 - *2025.12*: &nbsp;🎉 Selected for the fully funded **Singtel Exposure Program**. See you in Singapore!
