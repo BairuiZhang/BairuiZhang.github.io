@@ -122,7 +122,7 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 
 # 💻 Internships
 - *2026.08 – Present* · **Research Intern**, [Sangfor Research Institute](https://www.sangfor.com/about-us/company-profile) (**X-STAR Top Talent Program**)
-- *2026.04 – Present* · **Data Scientist (Agent)**, [Ericsson](https://www.ericsson.com/en)
+- *2026.04 – 2026.08* · **Data Scientist (Agent)**, [Ericsson](https://www.ericsson.com/en) · **Excellent Intern Award**
 - *2024.07 – 2025.05* · **Research Assistant**, [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/en)
 
 
