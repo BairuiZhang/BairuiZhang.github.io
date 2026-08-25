@@ -26,6 +26,7 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 📄 [Curriculum Vitae](./assets/CV_Bairui_Zhang.pdf) · [Transcript](./assets/Transcript_WES 4.0scale.pdf)
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 Thrilled to have **three papers accepted to the EMNLP 2026 Main Conference**, including one first-author paper. See you in Budapest! 🇭🇺
 - *2026.08*: &nbsp;🎉 Joined [Sangfor Technologies](https://www.sangfor.com/) as an **X-STAR Top Talent Program Intern**, guided by [Dr. Zichang Tan](https://scholar.google.com.hk/citations?hl=zh-CN&user=s29CDY8AAAAJ&view_op=list_works&sortby=pubdate).
 - *2026.07*: &nbsp;📝 Two papers submitted to **AAAI**.
 - *2026.05*: &nbsp;📝 Two first-author papers on Agentic Reasoning submitted to **EMNLP 2026**.
@@ -36,64 +37,51 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 - *2024.07*: &nbsp;🎉 Paper accepted by **Sensors** (SCI JCR Q2) — *AI in Pancreatic Cancer Analysis: A Review*.
 
 
-<!--
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/ARR- February.png' alt="LLM Outpatient Referral" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Published & Accepted
 
-[Large Language Models for Outpatient Referral: Problem Definition, Benchmarking and Challenges](https://arxiv.org/pdf/2503.08292)
+1. **TokenCliff: Benchmarking Budget Elasticity in Multi-Turn LLM Agents**<br>
+   **Bairui Zhang**, Weixuan Liu, Defan Xue, Yongqi Zhang<br>
+   *EMNLP 2026 Main Conference.* **First author.**
 
-Xiaoxiao Liu, Qingying Xiao, Junying Chen, Xiangyi Feng, Xiangbo Wu, **Bairui Zhang**, Xiang Wan, Jian Chang, Guangjun Yu, Yan Hu, Benyou Wang
+2. **From Global to Regional Coverage: Hyperspherical Prototype Discovery for Storage-Efficient Multimodal Retrieval**<br>
+   Xing Mu, Xiaotian Lin, Zhangyang Peng, **Bairui Zhang**, Yuyu Luo<br>
+   *EMNLP 2026 Main Conference.*
 
-- Investigates LLMs in outpatient referral tasks with a comprehensive evaluation framework covering static classification and dynamic dialogue.
-- Introduces the **IOR-Bench** dataset; finds LLMs show potential in dynamic interactions by asking effective questions.
-- Highlights the need for improved integration of diverse medical information through iterative dialogues.
-</div>
-</div>
+3. **Beyond Survival: Evaluating LLMs in Social Deduction Games with Human-Aligned Strategies**<br>
+   Zirui Song, Yuan Huang, Junchang Liu, Haozhe Luo, Chenxi Wang, Lang Gao, Zixiang Xu, **Bairui Zhang**, Mingfei Han, Xiaojun Chang, Xiuying Chen<br>
+   *EMNLP 2026 Main Conference.*
 
+4. [**Artificial Intelligence in Pancreatic Image Analysis: A Review**](https://doi.org/10.3390/s24144749)<br>
+   Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu<br>
+   *Sensors*, 24(14):4749, 2024.
 
+5. [**Large Language Models for Outpatient Referral: Problem Definition, Benchmarking and Challenges**](https://arxiv.org/abs/2503.08292)<br>
+   Xiaoxiao Liu, Qingying Xiao, Junying Chen, Xiangyi Feng, Xiangbo Wu, **Bairui Zhang**, Xiang Wan, Jian Chang, Guangjun Yu, Yan Hu, Benyou Wang<br>
+   *arXiv preprint*, 2025.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Multimodal Emotional Recognition.png' alt="VISPOR" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Under Review
 
-[Augmenting Categorical Emotion Detection with Visual Emotion Priors](./assets/NAACL.pdf)
+1. **DGSE: Turning Agent Failures into Reusable Skills for Structurally Regular VQA**<br>
+   **Bairui Zhang**, Hange Zhou, Weixuan Liu, Hongyu Ge, Xing Mu, Yongqi Zhang<br>
+   *Transferred to ICLR 2027.* **First author.**
 
-Changrong Min, **Bairui Zhang**, Hongfei Lin, Ximing Li
+2. **Information Asymmetry as a Design Axis for Step-Level Process Verification**<br>
+   Pengxu Zhu, Weixuan Chen, Yang Liu, **Bairui Zhang**, Qishi Zhan, Yiwei Wang<br>
+   *Under review at AAAI 2027.*
 
-- Proposes **VISPOR** (Visual Emotion Prefix-guided Emotion Detector), leveraging visual information to enhance text emotion detection.
-- Aligns emotional text descriptions with images and uses visually enriched embeddings as prefixes to capture nuanced emotion features.
-- Outperforms existing methods on three benchmarks.
-</div>
-</div>
+3. **WFCLLM: Learning Where and How to Embed Semantic Watermarks in LLM-Generated Code**<br>
+   Defan Xue, Jiabao Yang, **Bairui Zhang**, Guangyu Hu, Qixiang Yin, Song Xiao<br>
+   *Under review at AAAI 2027.*
 
+4. **Freeze Deep, Train Shallow: A Framework for Layer Allocation in Continued Pre-Training**<br>
+   Yuhang Wu, Qinyuan Liu, Qiuyang Zhao, Bo Jiang, **Bairui Zhang**, Yu-Jie Xiong, Hao Zhang, Qingwei Chong<br>
+   *Under review at ACL Rolling Review, August 2026.*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors · SCI Q2</div><img src='images/sensors.png' alt="AI Pancreatic Cancer" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Artificial Intelligence in Pancreatic Image Analysis: A Review](https://doi.org/10.3390/s24144749)
-
-Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu
-
-- Comprehensive review of AI in pancreatic cancer diagnosis: segmentation, classification, object detection, and prognosis prediction.
-- Covers CT, MRI, EUS, PET, and pathological imaging modalities.
-- Discusses current trends and future directions in AI-driven pancreatic cancer diagnosis.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISAIMS 2024</div><img src='images/ISAIMS.png' alt="Sepsis Prediction" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Factors that Increase the Mortality of Sepsis and Personalized Medication for Patients with Sepsis](https://dl.acm.org/doi/abs/10.1145/3644116.3644330)
-
-**Bairui Zhang**, Qianlong Cai, Junyang Ding, Kaitao Yuan
-
-- Develops ML models to predict mortality and recommend medications for sepsis patients.
-- XGBoost achieves best accuracy for mortality prediction (0.802) and drug recommendation (0.867).
-- Identifies key mortality factors (age, respiratory rate) and effective medications (Heparin, Acetaminophen, Metoprolol Tartrate).
-</div>
-</div>
--->
+5. **When Do LLM Watermarks Lose Information? A Diagnostic Study under Controlled Rewriting**<br>
+   Defan Xue, Chenyu Wu, **Bairui Zhang**, Jiabao Yang, Song Xiao<br>
+   *Transferred to ICLR 2027.*
 
 
 # 🎖 Honors and Awards
