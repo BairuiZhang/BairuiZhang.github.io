@@ -57,29 +57,6 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
    Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu<br>
    *Sensors*, 24(14):4749, 2024.
 
-## Under Review
-
-1. **DGSE: Turning Agent Failures into Reusable Skills for Structurally Regular VQA**<br>
-   **Bairui Zhang**, Hange Zhou, Weixuan Liu, Hongyu Ge, Xing Mu, Yongqi Zhang<br>
-   *Transferred to ICLR 2027.* **First author.**
-
-2. **Information Asymmetry as a Design Axis for Step-Level Process Verification**<br>
-   Pengxu Zhu, Weixuan Chen, Yang Liu, **Bairui Zhang**, Qishi Zhan, Yiwei Wang<br>
-   *Under review at AAAI 2027.*
-
-3. **WFCLLM: Learning Where and How to Embed Semantic Watermarks in LLM-Generated Code**<br>
-   Defan Xue, Jiabao Yang, **Bairui Zhang**, Guangyu Hu, Qixiang Yin, Song Xiao<br>
-   *Under review at AAAI 2027.*
-
-4. **Freeze Deep, Train Shallow: A Framework for Layer Allocation in Continued Pre-Training**<br>
-   Yuhang Wu, Qinyuan Liu, Qiuyang Zhao, Bo Jiang, **Bairui Zhang**, Yu-Jie Xiong, Hao Zhang, Qingwei Chong<br>
-   *Under review at ACL Rolling Review, August 2026.*
-
-5. **When Do LLM Watermarks Lose Information? A Diagnostic Study under Controlled Rewriting**<br>
-   Defan Xue, Chenyu Wu, **Bairui Zhang**, Jiabao Yang, Song Xiao<br>
-   *Transferred to ICLR 2027.*
-
-
 # 🎖 Honors and Awards
 - *2025–2027* · **Postgraduate Studentship** (¥240,000), HKUST(GZ)
 - *2024.02* · **Meritorious Winner** (Top 8% worldwide), Mathematical Contest in Modeling ([MCM/ICM](https://www.comap.com/)) · [Paper](./assets/SubmittedICM.pdf)
