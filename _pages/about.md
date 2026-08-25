@@ -57,10 +57,6 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
    Weixuan Liu, **Bairui Zhang**, Tao Liu, Juntao Jiang, Yong Liu<br>
    *Sensors*, 24(14):4749, 2024.
 
-5. [**Large Language Models for Outpatient Referral: Problem Definition, Benchmarking and Challenges**](https://arxiv.org/abs/2503.08292)<br>
-   Xiaoxiao Liu, Qingying Xiao, Junying Chen, Xiangyi Feng, Xiangbo Wu, **Bairui Zhang**, Xiang Wan, Jian Chang, Guangjun Yu, Yan Hu, Benyou Wang<br>
-   *arXiv preprint*, 2025.
-
 ## Under Review
 
 1. **DGSE: Turning Agent Failures into Reusable Skills for Structurally Regular VQA**<br>
