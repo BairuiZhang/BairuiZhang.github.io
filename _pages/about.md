@@ -26,6 +26,7 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 📄 [Curriculum Vitae](./assets/CV_Bairui_Zhang.pdf) · [Transcript](./assets/Transcript_WES 4.0scale.pdf)
 
 # 🔥 News
+- *2026.09*: &nbsp;📝 One first-author paper submitted to **ICLR**.
 - *2026.08*: &nbsp;🎉 Thrilled to have **three papers accepted to the EMNLP 2026 Main Conference**. See you in Budapest! 🇭🇺
 - *2026.08*: &nbsp;🎉 Joined [Sangfor Technologies](https://www.sangfor.com/) as an **X-STAR Top Talent Program Intern**, guided by [Dr. Zichang Tan](https://scholar.google.com.hk/citations?hl=zh-CN&user=s29CDY8AAAAJ&view_op=list_works&sortby=pubdate).
 - *2026.07*: &nbsp;📝 Two papers submitted to **AAAI**.
