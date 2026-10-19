@@ -123,6 +123,18 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAIDC 2026</div><img src='images/EAIDC-2026.jpg' alt="EAIDC 2026 Embodied AI Developers Conference" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🤖 *2026.03* · **[Embodied AI Developers Conference (EAIDC 2026)](https://cn.chinadaily.com.cn/a/202604/03/WS69cf7ebca310942cc49a6659.html)**, Shenzhen
+
+**Finalist · Top 10**
+- Selected as one of **20 finalist teams** (about 60 participants) from more than 100 teams nationwide, including teams from Tsinghua University, Peking University, Sun Yat-sen University, research institutes, and high-tech companies.
+- Achieved a **Top 10 finish** in the offline final, completing real-world embodied AI tasks spanning data collection, model training, and physical-robot deployment.
+- Media coverage: [China Daily](https://cn.chinadaily.com.cn/a/202604/03/WS69cf7ebca310942cc49a6659.html) · [Science and Technology Daily](https://www.stdaily.com/web/gdxw/2026-03/31/content_495739.html)
+</div>
+</div>
+
 # 💻 Internships
 - *2026.08 – Present* · **Research Intern**, [Sangfor Research Institute](https://www.sangfor.com/about-us/company-profile) (**X-STAR Top Talent Program**)
 - *2026.04 – 2026.08* · **Data Scientist (Agent)**, [Ericsson](https://www.ericsson.com/en) · **Excellent Intern Award**
