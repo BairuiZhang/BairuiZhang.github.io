@@ -26,7 +26,7 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 📄 [Curriculum Vitae](./assets/CV_Bairui_Zhang.pdf) · [Transcript](./assets/Transcript_WES 4.0scale.pdf)
 
 # 🔥 News
-- *2026.10*: &nbsp;🎉 **TokenCliff** was selected for an **Oral presentation at the EMNLP 2026 Main Conference**.
+- *2026.10*: &nbsp;🇭🇺 Attended **EMNLP 2026 in Budapest** with **three Main Conference papers**, including two **Oral presentations**: my first-author paper **TokenCliff** and **From Global to Regional Coverage**.
 - *2026.10*: &nbsp;📝 One first-author paper submitted to **NAACL**.
 - *2026.09*: &nbsp;📝 One first-author paper submitted to **ICLR**.
 - *2026.08*: &nbsp;🎉 Thrilled to have **three papers accepted to the EMNLP 2026 Main Conference**. See you in Budapest! 🇭🇺
@@ -50,7 +50,7 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 
 2. **From Global to Regional Coverage: Hyperspherical Prototype Discovery for Storage-Efficient Multimodal Retrieval**<br>
    Xing Mu, Xiaotian Lin, Zhangyang Peng, **Bairui Zhang**, Yuyu Luo<br>
-   *EMNLP 2026 Main Conference.*
+   *EMNLP 2026 Main Conference (Oral).*
 
 3. **Beyond Survival: Evaluating LLMs in Social Deduction Games with Human-Aligned Strategies**<br>
    Zirui Song, Yuan Huang, Junchang Liu, Haozhe Luo, Chenxi Wang, Lang Gao, Zixiang Xu, **Bairui Zhang**, Mingfei Han, Xiaojun Chang, Xiuying Chen<br>
@@ -132,6 +132,23 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 - Selected as one of **20 finalist teams** (about 60 participants) from more than 100 teams nationwide, including teams from Tsinghua University, Peking University, Sun Yat-sen University, research institutes, and high-tech companies.
 - Achieved a **Top 10 finish** in the offline final, completing real-world embodied AI tasks spanning data collection, model training, and physical-robot deployment.
 - Media coverage: [China Daily](https://cn.chinadaily.com.cn/a/202604/03/WS69cf7ebca310942cc49a6659.html) · [Science and Technology Daily](https://www.stdaily.com/web/gdxw/2026-03/31/content_495739.html)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><div class="emnlp-gallery">
+<a href="images/emnlp-2026-budapest-2.jpg" class="emnlp-gallery-main"><img src="images/emnlp-2026-budapest-2.jpg" alt="Presenting TokenCliff at EMNLP 2026" loading="lazy"></a>
+<a href="images/emnlp-2026-budapest-1.jpg"><img src="images/emnlp-2026-budapest-1.jpg" alt="At EMNLP 2026 in Budapest" loading="lazy"></a>
+<a href="images/emnlp-2026-budapest-3.jpg"><img src="images/emnlp-2026-budapest-3.jpg" alt="EMNLP 2026 conference exhibition and networking area" loading="lazy"></a>
+</div></div></div>
+<div class='paper-box-text' markdown="1">
+
+🇭🇺 *2026.10* · **EMNLP 2026**, Budapest, Hungary
+
+**Conference Participant · Oral Presenter**
+
+- Happy to attend EMNLP in Budapest with **three papers accepted to the Main Conference**.
+- Presented my first-author paper **TokenCliff: Benchmarking Budget Elasticity in Multi-Turn LLM Agents** as an **Oral presentation**.
+- **From Global to Regional Coverage: Hyperspherical Prototype Discovery for Storage-Efficient Multimodal Retrieval** was also selected for an **Oral presentation**.
 </div>
 </div>
 
