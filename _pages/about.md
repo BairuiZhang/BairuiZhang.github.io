@@ -74,6 +74,7 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 
 # 📖 Educations
 - *2025.09 – Present* · **M.Phil.**, The Hong Kong University of Science and Technology, Guangzhou — Data Science and Analytics (GPA: 4.13/4.3)
+- *2024.07 – 2025.05* · **Visiting Student**, CUHK
 - *2021.09 – 2025.06* · **B.Eng.**, Northeastern University — Computer Science (GPA: 3.99/4.0, Rank 3/116)
 
 # 💬 TA and Workshop
@@ -153,7 +154,6 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 # 💻 Internships
 - *2026.08 – Present* · **Research Intern**, [Sangfor Research Institute](https://www.sangfor.com/about-us/company-profile) (**X-STAR Top Talent Program**)
 - *2026.04 – 2026.08* · **Data Scientist (Agent)**, [Ericsson](https://www.ericsson.com/en) · **Excellent Intern Award**
-- *2024.07 – 2025.05* · **Research Assistant**, [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/en)
 
 
 <!-- # 📝 Projects
