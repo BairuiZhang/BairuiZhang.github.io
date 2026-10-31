@@ -89,7 +89,7 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Symposium</div><img src='images/Future Science Prize Week.png' alt="Future Science Prize Week" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Future Science Prize Week 2024</div><img src='images/Future Science Prize Week.png' alt="Future Science Prize Week" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 🇭🇰 *2024.11.01 – 2024.11.03* · **Future Science Prize Week**
@@ -135,11 +135,7 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><div class="emnlp-gallery">
-<a href="images/emnlp-2026-budapest-2.jpg" class="emnlp-gallery-main"><img src="images/emnlp-2026-budapest-2.jpg" alt="Presenting TokenCliff at EMNLP 2026" loading="lazy"></a>
-<a href="images/emnlp-2026-budapest-1.jpg"><img src="images/emnlp-2026-budapest-1.jpg" alt="At EMNLP 2026 in Budapest" loading="lazy"></a>
-<a href="images/emnlp-2026-budapest-3.jpg"><img src="images/emnlp-2026-budapest-3.jpg" alt="EMNLP 2026 conference exhibition and networking area" loading="lazy"></a>
-</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><a href="images/emnlp-2026-budapest-collage.jpg"><img src="images/emnlp-2026-budapest-collage.jpg" alt="EMNLP 2026 in Budapest: conference portrait, TokenCliff oral presentation, and exhibition hall" width="100%" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 🇭🇺 *2026.10* · **EMNLP 2026**, Budapest, Hungary

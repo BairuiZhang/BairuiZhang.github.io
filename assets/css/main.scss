@@ -116,34 +116,6 @@
     }
 }
 
-.paper-box .paper-box-image .emnlp-gallery {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 6px;
-    width: 100%;
-    max-width: 400px;
-
-    .emnlp-gallery-main {
-        grid-column: 1 / -1;
-    }
-
-    a {
-        display: block;
-        min-width: 0;
-    }
-
-    img {
-        display: block;
-        width: 100%;
-        height: 150px;
-        object-position: center 65%;
-    }
-
-    .emnlp-gallery-main img {
-        height: auto;
-    }
-}
-
 /* ==========================================================================
    SCROLL OFFSET
    ========================================================================== */
