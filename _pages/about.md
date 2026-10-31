@@ -44,15 +44,17 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 
 ## Published & Accepted
 
-1. **TokenCliff: Benchmarking Budget Elasticity in Multi-Turn LLM Agents**<br>
+[Full publication list on Google Scholar](https://scholar.google.com/citations?hl=en&user=NVV0oCAAAAAJ)
+
+1. [**TokenCliff: Benchmarking Output-Token Budget Sensitivity in Multi-Turn LLM Agents**](https://aclanthology.org/2026.emnlp-main.410/)<br>
    **Bairui Zhang**, Weixuan Liu, Defan Xue, Yongqi Zhang<br>
    *EMNLP 2026 Main Conference (Oral).* **First author.**
 
-2. **From Global to Regional Coverage: Hyperspherical Prototype Discovery for Storage-Efficient Multimodal Retrieval**<br>
+2. [**From Global to Regional Coverage: Hyperspherical Prototype Discovery for Storage-Efficient Multimodal Retrieval**](https://aclanthology.org/2026.emnlp-main.1541/)<br>
    Xing Mu, Xiaotian Lin, Zhangyang Peng, **Bairui Zhang**, Yuyu Luo<br>
    *EMNLP 2026 Main Conference (Oral).*
 
-3. **Beyond Survival: Evaluating LLMs in Social Deduction Games with Human-Aligned Strategies**<br>
+3. [**Beyond Survival: Evaluating LLMs in Social Deduction Games with Human-Aligned Strategies**](https://aclanthology.org/2026.emnlp-main.2208/)<br>
    Zirui Song, Yuan Huang, Junchang Liu, Haozhe Luo, Chenxi Wang, Lang Gao, Zixiang Xu, **Bairui Zhang**, Mingfei Han, Xiaojun Chang, Xiuying Chen<br>
    *EMNLP 2026 Main Conference.*
 
@@ -143,7 +145,7 @@ Hi! Welcome to the homepage of **Bairui (Barry) Zhang**. I am currently an MPhil
 **Conference Participant · Oral Presenter**
 
 - Happy to attend EMNLP in Budapest with **three papers accepted to the Main Conference**.
-- Presented my first-author paper **TokenCliff: Benchmarking Budget Elasticity in Multi-Turn LLM Agents** as an **Oral presentation**.
+- Presented my first-author paper **TokenCliff: Benchmarking Output-Token Budget Sensitivity in Multi-Turn LLM Agents** as an **Oral presentation**.
 - **From Global to Regional Coverage: Hyperspherical Prototype Discovery for Storage-Efficient Multimodal Retrieval** was also selected for an **Oral presentation**.
 </div>
 </div>
